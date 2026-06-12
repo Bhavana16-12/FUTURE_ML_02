@@ -37,7 +37,7 @@ os.makedirs(SCREENSHOTS_DIR, exist_ok=True)
 # 1. SYNTHETIC DATA GENERATION
 # ---------------------------------------------------------
 
-def generate_synthetic_data(num_samples=1000, seed=42):
+def generate_synthetic_data(num_samples=300, seed=42):
     random.seed(seed)
     np.random.seed(seed)
     
@@ -277,8 +277,8 @@ def train_and_evaluate():
     print("TRAINING CATEGORY CLASSIFICATION MODELS")
     print("="*50)
     
-    X_train, X_test, y_train_cat, y_test_cat = train_test_split(X, y_cat, test_size=0.2, random_state=42, stratify=y_cat)
-    
+    X_train, X_test, y_train_cat, y_test_cat = train_test_split(X, y_cat, test_size=0.3, random_state=7, stratify=y_cat)
+
     best_cat_model = None
     best_cat_score = 0
     best_cat_name = ""
@@ -332,7 +332,7 @@ def train_and_evaluate():
     print("TRAINING PRIORITY PREDICTION MODELS")
     print("="*50)
     
-    X_train_p, X_test_p, y_train_prio, y_test_prio = train_test_split(X, y_prio, test_size=0.2, random_state=42, stratify=y_prio)
+    X_train_p, X_test_p, y_train_prio, y_test_prio = train_test_split(X, y_prio, test_size=0.3, random_state=7, stratify=y_prio)
     
     best_prio_model = None
     best_prio_score = 0
