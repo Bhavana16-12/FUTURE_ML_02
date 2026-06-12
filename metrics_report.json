@@ -1,0 +1,120 @@
+{
+    "category_results": {
+        "best_model": "Logistic Regression",
+        "metrics": {
+            "Logistic Regression": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            },
+            "Multinomial Naive Bayes": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            },
+            "Random Forest": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            }
+        },
+        "report": {
+            "Account Access": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 49.0
+            },
+            "Billing": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 52.0
+            },
+            "General Query": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 47.0
+            },
+            "Technical Issue": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 52.0
+            },
+            "accuracy": 1.0,
+            "macro avg": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 200.0
+            },
+            "weighted avg": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 200.0
+            }
+        }
+    },
+    "priority_results": {
+        "best_model": "Logistic Regression",
+        "metrics": {
+            "Logistic Regression": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            },
+            "Multinomial Naive Bayes": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            },
+            "Random Forest": {
+                "accuracy": 1.0,
+                "f1_score": 1.0,
+                "precision": 1.0,
+                "recall": 1.0
+            }
+        },
+        "report": {
+            "High": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 60.0
+            },
+            "Low": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 98.0
+            },
+            "Medium": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 42.0
+            },
+            "accuracy": 1.0,
+            "macro avg": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 200.0
+            },
+            "weighted avg": {
+                "precision": 1.0,
+                "recall": 1.0,
+                "f1-score": 1.0,
+                "support": 200.0
+            }
+        }
+    }
+}

@@ -1,0 +1,2206 @@
+ticket_id,ticket_text,category,priority
+INC-2026000,My credit card was charged twice for the monthly subscription on 24-05-2026. Please refund $72.,Billing,High
+INC-2026001,"Hey, Is it possible to switch my billing from monthly to yearly to get a discount?",Billing,Low
+INC-2026002,Can you reset my password? I forgot it and need access.,Account Access,Low
+INC-2026003,"My profile information is not updating when I save changes.
+Regards,
+David",Account Access,Low
+INC-2026004,"Hey, The search bar returns incorrect results for simple queries.
+Sincerely,
+Daniel",Technical Issue,Low
+INC-2026005,"Good morning, I am unable to receive password reset emails. The mail server seems down.
+Sincerely,
+Amanda",Technical Issue,High
+INC-2026006,"Where can I find your API documentation and developers SDK guides?
+- Amanda",General Query,Low
+INC-2026007,"Greetings, Do you offer discounts for non-profit organizations or educational schools?
+- Amanda",General Query,Low
+INC-2026008,"Hey, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-48469
+Best regards,
+Emily",Billing,Medium
+INC-2026009,"Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-31174
+Regards,
+Amanda",Billing,Medium
+INC-2026010,"The website crashes whenever I try to upload my profile photo or files.
+- Emily",Technical Issue,Medium
+INC-2026011,Is there a feature to export reports as PDF or CSV?,General Query,Low
+INC-2026012,"Hi support team, I received a payment failure notification but my credit card has sufficient funds.
+Regards,
+David",Billing,Medium
+INC-2026013,"Hello team, Is there a feature to export reports as PDF or CSV?
+Thank you,
+David",General Query,Low
+INC-2026014,"Good morning, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-24322",Billing,Medium
+INC-2026015,"Greetings, Is there a feature to export reports as PDF or CSV?",General Query,Low
+INC-2026016,What are your business hours and customer support availability on weekends?,General Query,Low
+INC-2026017,"I was billed $22 during my free trial period. Please check and refund.
+Thank you,
+Emily",Billing,High
+INC-2026018,"Dear Support, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026019,"I am unable to receive password reset emails. The mail server seems down.
+Thanks,
+Sarah",Technical Issue,High
+INC-2026020,"The search bar returns incorrect results for simple queries.
+Regards,
+James",Technical Issue,Low
+INC-2026021,"Hello, I requested a refund of $49 last week but haven't received it yet.",Billing,High
+INC-2026022,"I want to request a demo of your enterprise plan for my team.
+Best regards,
+Daniel",General Query,Low
+INC-2026023,My payment failed but money was deducted from my bank account.,Billing,High
+INC-2026024,"Dear Support, Do you support integration with Slack or Microsoft Teams?",General Query,Low
+INC-2026025,Why was I charged $229 this month instead of the usual $70?,Billing,Medium
+INC-2026026,"My account has been suspended and I don't know why. Please reactivate.
+Regards,
+John",Account Access,High
+INC-2026027,"I requested a refund of $98 last week but haven't received it yet.
+- Michael",Billing,High
+INC-2026028,"Good morning, The search bar returns incorrect results for simple queries.
+- Daniel",Technical Issue,Low
+INC-2026029,"I found a bug: the submit button is greyed out even when forms are complete.
+- Robert",Technical Issue,Medium
+INC-2026030,"Dear Support, How do I add a new team member to my organization profile?
+Best regards,
+Michael",Account Access,Low
+INC-2026031,"Hi, The application is extremely slow and takes minutes to load pages.
+Thanks,
+Megan",Technical Issue,High
+INC-2026032,"Hello team, My billing account is locked and I cannot process the invoice payment.
+Thank you,
+Sarah",Billing,High
+INC-2026033,"I wanted to share some feedback: the new UI looks really clean!
+Sincerely,
+Daniel",General Query,Low
+INC-2026034,"How do I upgrade my subscription plan to premium?
+- Megan",Account Access,Low
+INC-2026035,"Is your service compatible with Internet Explorer 11?
+Thank you,
+Ashley",General Query,Low
+INC-2026036,"Hello, The mobile app freezes and closes automatically when opening reports.
+- Megan",Technical Issue,Medium
+INC-2026037,"Good morning, I requested a refund of $44 last week but haven't received it yet.",Billing,High
+INC-2026038,"Dear Support, I want to request a demo of your enterprise plan for my team.
+- James",General Query,Low
+INC-2026039,"Hi support team, I found a bug: the submit button is greyed out even when forms are complete.
+Regards,
+Emily",Technical Issue,Medium
+INC-2026040,"Hello team, Is your service compatible with Internet Explorer 11?",General Query,Low
+INC-2026041,"I cannot log in to my account. It says password incorrect or user not found.
+Sincerely,
+Megan",Account Access,Medium
+INC-2026042,"My profile information is not updating when I save changes.
+Thank you,
+Jessica",Account Access,Low
+INC-2026043,"Hey, Can you tell me more about your security and data compliance policies?
+- Jessica",General Query,Low
+INC-2026044,"Database connection timeout error when saving my work on Slack.
+Best regards,
+Ashley",Technical Issue,High
+INC-2026045,"Dear Support, Can you merge my two accounts into a single one?",Account Access,Low
+INC-2026046,"Hey, The search bar returns incorrect results for simple queries.",Technical Issue,Low
+INC-2026047,"Greetings, We are experiencing an API outage and all requests are returning 500 server errors.",Technical Issue,High
+INC-2026048,"Hello, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026049,"Good morning, Can you reset my password? I forgot it and need access.
+- Ashley",Account Access,Low
+INC-2026050,"Hi, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026051,"Dear Support, What are the system requirements for running your software?
+- Sarah",General Query,Low
+INC-2026052,"Good morning, I am unable to receive password reset emails. The mail server seems down.
+- Ashley",Technical Issue,High
+INC-2026053,"Hello, When is the new feature update scheduled for release?
+Sincerely,
+Sarah",General Query,Low
+INC-2026054,"Good morning, My profile information is not updating when I save changes.
+Sincerely,
+James",Account Access,Low
+INC-2026055,Can I get a copy of my invoice for May 2026?,Billing,Low
+INC-2026056,"Hello, I wanted to share some feedback: the new UI looks really clean!",General Query,Low
+INC-2026057,"Dear Support, We are experiencing an API outage and all requests are returning 500 server errors.
+Thanks,
+Daniel",Technical Issue,High
+INC-2026058,Do you offer discounts for non-profit organizations or educational schools?,General Query,Low
+INC-2026059,"Hello team, Database connection timeout error when saving my work on Slack.
+- Emily",Technical Issue,High
+INC-2026060,"Hi, When is the new feature update scheduled for release?
+Thanks,
+Jessica",General Query,Low
+INC-2026061,"Hi, My data has not synced between the web app and the mobile application.",Technical Issue,Medium
+INC-2026062,I want to enable two-factor authentication for my profile for security.,Account Access,Low
+INC-2026063,"Hey, How do I upgrade my subscription plan to premium?
+Thank you,
+John",Account Access,Low
+INC-2026064,"Hi, I found a bug: the submit button is greyed out even when forms are complete.",Technical Issue,Medium
+INC-2026065,"Hey, How do I add a new team member to my organization profile?
+Regards,
+Amanda",Account Access,Low
+INC-2026066,"I get a 404 page not found error when clicking on the dashboard link.
+Sincerely,
+John",Technical Issue,Medium
+INC-2026067,"Hi, I received a payment failure notification but my credit card has sufficient funds.
+Sincerely,
+Amanda",Billing,Medium
+INC-2026068,"I am seeing an unrecognized transaction of $18 on my card from your site.
+Regards,
+Megan",Billing,High
+INC-2026069,"Good morning, I need to delete my account and remove my personal data under GDPR rules.
+- Sarah",Account Access,Low
+INC-2026070,"Hi support team, Can you reset my password? I forgot it and need access.
+Thank you,
+Amanda",Account Access,Low
+INC-2026071,"I received a payment failure notification but my credit card has sufficient funds.
+Regards,
+James",Billing,Medium
+INC-2026072,"Greetings, Do you offer discounts for non-profit organizations or educational schools?
+Regards,
+Amanda",General Query,Low
+INC-2026073,"Dear Support, I was billed $123 during my free trial period. Please check and refund.
+Thank you,
+Daniel",Billing,High
+INC-2026074,"Dear Support, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-53713
+Best regards,
+Emily",Billing,Medium
+INC-2026075,"Unrecognized login detected on my account. I need to secure it.
+Best regards,
+Sarah",Account Access,High
+INC-2026076,"Hi support team, I cannot log in to my account. It says password incorrect or user not found.
+Best regards,
+Ashley",Account Access,Medium
+INC-2026077,"Greetings, I was billed $143 during my free trial period. Please check and refund.",Billing,High
+INC-2026078,"Hi support team, My payment failed but money was deducted from my bank account.
+Sincerely,
+Ashley",Billing,High
+INC-2026079,"I get a 404 page not found error when clicking on the dashboard link.
+Sincerely,
+Robert",Technical Issue,Medium
+INC-2026080,"Do you offer discounts for non-profit organizations or educational schools?
+Sincerely,
+Amanda",General Query,Low
+INC-2026081,"Hello team, What are the system requirements for running your software?
+Regards,
+Emily",General Query,Low
+INC-2026082,"Hey, My billing account is locked and I cannot process the invoice payment.
+Regards,
+John",Billing,High
+INC-2026083,"Hello team, Can I get a copy of my invoice for July 2025?",Billing,Low
+INC-2026084,"Good morning, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+James",Account Access,High
+INC-2026085,"I want to request a demo of your enterprise plan for my team.
+Thanks,
+Daniel",General Query,Low
+INC-2026086,"Can you update my billing address on the system? It should be 435 Main St, Cityville.
+Best regards,
+Ashley",Billing,Low
+INC-2026087,"Hi support team, Can you reset my password? I forgot it and need access.
+Regards,
+Amanda",Account Access,Low
+INC-2026088,"I cannot connect to the server. The connection keeps dropping.
+Sincerely,
+Robert",Technical Issue,High
+INC-2026089,"Dear Support, How do I upgrade my subscription plan to premium?",Account Access,Low
+INC-2026090,"Hello team, How do I upgrade my subscription plan to premium?
+Sincerely,
+Ashley",Account Access,Low
+INC-2026091,"Hello, I need to delete my account and remove my personal data under GDPR rules.",Account Access,Low
+INC-2026092,"Hi, Can you reset my password? I forgot it and need access.
+Thank you,
+Ashley",Account Access,Low
+INC-2026093,"Hey, My billing account is locked and I cannot process the invoice payment.
+Regards,
+Ashley",Billing,High
+INC-2026094,"Hi, My billing account is locked and I cannot process the invoice payment.
+- Michael",Billing,High
+INC-2026095,"Hi, The search bar returns incorrect results for simple queries.
+Sincerely,
+Daniel",Technical Issue,Low
+INC-2026096,Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-33627,Billing,Medium
+INC-2026097,"I am seeing an unrecognized transaction of $139 on my card from your site.
+- Amanda",Billing,High
+INC-2026098,"Hey, Our system integration with your webhook is failing with connection refused.
+Thank you,
+Megan",Technical Issue,High
+INC-2026099,The search bar returns incorrect results for simple queries.,Technical Issue,Low
+INC-2026100,"Can you tell me more about your security and data compliance policies?
+Thank you,
+Ashley",General Query,Low
+INC-2026101,"Hello team, I cannot log in to my account. It says password incorrect or user not found.
+Best regards,
+David",Account Access,Medium
+INC-2026102,I am seeing an unrecognized transaction of $188 on my card from your site.,Billing,High
+INC-2026103,"Hello, Do you offer discounts for non-profit organizations or educational schools?
+- Sarah",General Query,Low
+INC-2026104,"Hi support team, Our system integration with your webhook is failing with connection refused.
+- Emily",Technical Issue,High
+INC-2026105,"Hi support team, Why was I charged $21 this month instead of the usual $91?
+Sincerely,
+Sarah",Billing,Medium
+INC-2026106,I need to delete my account and remove my personal data under GDPR rules.,Account Access,Low
+INC-2026107,"What are your business hours and customer support availability on weekends?
+Regards,
+Daniel",General Query,Low
+INC-2026108,"Greetings, Unrecognized login detected on my account. I need to secure it.
+- Robert",Account Access,High
+INC-2026109,"Hey, Unrecognized login detected on my account. I need to secure it.
+Sincerely,
+Sarah",Account Access,High
+INC-2026110,"Good morning, Where can I find your API documentation and developers SDK guides?
+Sincerely,
+James",General Query,Low
+INC-2026111,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026112,"Hello, Can you tell me more about your security and data compliance policies?
+Thank you,
+Jessica",General Query,Low
+INC-2026113,"I wanted to share some feedback: the new UI looks really clean!
+Thank you,
+Megan",General Query,Low
+INC-2026114,"Hello team, Our system integration with your webhook is failing with connection refused.
+Thanks,
+Michael",Technical Issue,High
+INC-2026115,"Hi support team, I cannot connect to the server. The connection keeps dropping.
+Sincerely,
+Ashley",Technical Issue,High
+INC-2026116,"Hi, I wanted to share some feedback: the new UI looks really clean!
+- Ashley",General Query,Low
+INC-2026117,"Hey, I cannot connect to the server. The connection keeps dropping.
+Regards,
+Jessica",Technical Issue,High
+INC-2026118,"Hello team, I am unable to receive password reset emails. The mail server seems down.
+- Amanda",Technical Issue,High
+INC-2026119,"Hey, My credit card was charged twice for the monthly subscription on 03-01-2026. Please refund $174.
+Regards,
+Amanda",Billing,High
+INC-2026120,"Hello team, Is there a feature to export reports as PDF or CSV?
+Regards,
+Ashley",General Query,Low
+INC-2026121,My API key has leaked and I need to regenerate it immediately.,Account Access,High
+INC-2026122,"Hey, I need to change my registered email from emily75@gmail.com to emily.new@company.com.
+Thanks,
+Emily",Account Access,Medium
+INC-2026123,"Hi support team, I wanted to share some feedback: the new UI looks really clean!
+Regards,
+Amanda",General Query,Low
+INC-2026124,"Hey, Unrecognized login detected on my account. I need to secure it.
+- Sarah",Account Access,High
+INC-2026125,Can I get a copy of my invoice for September 2026?,Billing,Low
+INC-2026126,"Hey, Unrecognized login detected on my account. I need to secure it.
+- Emily",Account Access,High
+INC-2026127,"Greetings, What are the system requirements for running your software?",General Query,Low
+INC-2026128,"Our system integration with your webhook is failing with connection refused.
+Best regards,
+John",Technical Issue,High
+INC-2026129,"Good morning, What are the system requirements for running your software?
+Best regards,
+Daniel",General Query,Low
+INC-2026130,"I wanted to share some feedback: the new UI looks really clean!
+Regards,
+David",General Query,Low
+INC-2026131,"Good morning, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+Michael",Account Access,High
+INC-2026132,"Unrecognized login detected on my account. I need to secure it.
+- Megan",Account Access,High
+INC-2026133,"I need to delete my account and remove my personal data under GDPR rules.
+Thank you,
+James",Account Access,Low
+INC-2026134,"Hello, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-72350
+Thanks,
+James",Billing,Medium
+INC-2026135,"Hey, My data has not synced between the web app and the mobile application.
+Thanks,
+Robert",Technical Issue,Medium
+INC-2026136,My profile information is not updating when I save changes.,Account Access,Low
+INC-2026137,"Hi support team, Our system integration with your webhook is failing with connection refused.
+Thanks,
+Emily",Technical Issue,High
+INC-2026138,"Hello, The application is extremely slow and takes minutes to load pages.",Technical Issue,High
+INC-2026139,"Hey, My API key has leaked and I need to regenerate it immediately.
+Best regards,
+Megan",Account Access,High
+INC-2026140,"Hi support team, The application is extremely slow and takes minutes to load pages.
+- Daniel",Technical Issue,High
+INC-2026141,"Dear Support, Can you reset my password? I forgot it and need access.
+Thank you,
+Emily",Account Access,Low
+INC-2026142,"Hello, Is it possible to switch my billing from monthly to yearly to get a discount?
+Thanks,
+Daniel",Billing,Low
+INC-2026143,"Hi, The CSV export feature is broken. It downloads an empty file.
+Sincerely,
+Ashley",Technical Issue,Medium
+INC-2026144,"Can you tell me more about your security and data compliance policies?
+- James",General Query,Low
+INC-2026145,"Our system integration with your webhook is failing with connection refused.
+Regards,
+Daniel",Technical Issue,High
+INC-2026146,"Hello, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026147,"Hello team, Why was I charged $148 this month instead of the usual $37?",Billing,Medium
+INC-2026148,"Hello team, I am unable to receive password reset emails. The mail server seems down.
+Sincerely,
+James",Technical Issue,High
+INC-2026149,"Hey, I would like to suggest a feature: adding a dark mode to the dashboard.
+Best regards,
+Daniel",General Query,Low
+INC-2026150,"What are your business hours and customer support availability on weekends?
+Regards,
+David",General Query,Low
+INC-2026151,"Is it possible to switch my billing from monthly to yearly to get a discount?
+Regards,
+Amanda",Billing,Low
+INC-2026152,"Hello team, Can you update my billing address on the system? It should be 506 Main St, Cityville.
+Regards,
+Michael",Billing,Low
+INC-2026153,"When is the new feature update scheduled for release?
+- Amanda",General Query,Low
+INC-2026154,"Greetings, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026155,"Dear Support, I need to delete my account and remove my personal data under GDPR rules.",Account Access,Low
+INC-2026156,"The website crashes whenever I try to upload my profile photo or files.
+- John",Technical Issue,Medium
+INC-2026157,"Hello team, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026158,"Good morning, Do you offer discounts for non-profit organizations or educational schools?
+Thanks,
+James",General Query,Low
+INC-2026159,"Greetings, I was billed $137 during my free trial period. Please check and refund.",Billing,High
+INC-2026160,"Hey, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-51220",Billing,Medium
+INC-2026161,The CSV export feature is broken. It downloads an empty file.,Technical Issue,Medium
+INC-2026162,"Good morning, My payment failed but money was deducted from my bank account.
+Sincerely,
+Ashley",Billing,High
+INC-2026163,"Hi support team, Do you offer discounts for non-profit organizations or educational schools?",General Query,Low
+INC-2026164,"Hi support team, How do I add a new team member to my organization profile?
+Regards,
+Sarah",Account Access,Low
+INC-2026165,"What are your business hours and customer support availability on weekends?
+Thank you,
+James",General Query,Low
+INC-2026166,"Dear Support, Database connection timeout error when saving my work on Stripe.
+Best regards,
+Michael",Technical Issue,High
+INC-2026167,"Dear Support, I cannot log in to my account. It says password incorrect or user not found.
+Best regards,
+James",Account Access,Medium
+INC-2026168,"Dear Support, Can you tell me more about your security and data compliance policies?
+- Robert",General Query,Low
+INC-2026169,"Dear Support, I am unable to receive password reset emails. The mail server seems down.",Technical Issue,High
+INC-2026170,"Hi support team, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026171,I am unable to receive password reset emails. The mail server seems down.,Technical Issue,High
+INC-2026172,"Hi support team, The mobile app freezes and closes automatically when opening reports.",Technical Issue,Medium
+INC-2026173,The search bar returns incorrect results for simple queries.,Technical Issue,Low
+INC-2026174,"Greetings, My credit card was charged twice for the monthly subscription on 28-06-2026. Please refund $175.",Billing,High
+INC-2026175,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026176,"Greetings, Unrecognized login detected on my account. I need to secure it.
+Sincerely,
+Ashley",Account Access,High
+INC-2026177,"Hi, My profile information is not updating when I save changes.
+Best regards,
+James",Account Access,Low
+INC-2026178,"Can you reset my password? I forgot it and need access.
+Sincerely,
+Amanda",Account Access,Low
+INC-2026179,"My data has not synced between the web app and the mobile application.
+- Jessica",Technical Issue,Medium
+INC-2026180,"Is your service compatible with Internet Explorer 11?
+Best regards,
+David",General Query,Low
+INC-2026181,"Good morning, Do you support integration with Slack or Microsoft Teams?",General Query,Low
+INC-2026182,"Hi, We are experiencing an API outage and all requests are returning 500 server errors.
+Best regards,
+David",Technical Issue,High
+INC-2026183,"Hi support team, I cannot connect to the server. The connection keeps dropping.",Technical Issue,High
+INC-2026184,"What are your business hours and customer support availability on weekends?
+Sincerely,
+James",General Query,Low
+INC-2026185,"Is your service compatible with Internet Explorer 11?
+Sincerely,
+Ashley",General Query,Low
+INC-2026186,"Hello team, I was billed $180 during my free trial period. Please check and refund.
+Regards,
+David",Billing,High
+INC-2026187,"Hello, The CSV export feature is broken. It downloads an empty file.
+Thank you,
+John",Technical Issue,Medium
+INC-2026188,"Hi, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026189,"My API key has leaked and I need to regenerate it immediately.
+Thanks,
+Sarah",Account Access,High
+INC-2026190,"I was billed $230 during my free trial period. Please check and refund.
+Regards,
+Robert",Billing,High
+INC-2026191,"Dear Support, I get a 404 page not found error when clicking on the dashboard link.
+Best regards,
+Amanda",Technical Issue,Medium
+INC-2026192,"Dear Support, Do you support integration with Slack or Microsoft Teams?",General Query,Low
+INC-2026193,"Can you update my billing address on the system? It should be 968 Main St, Cityville.",Billing,Low
+INC-2026194,"Good morning, The mobile app freezes and closes automatically when opening reports.
+Sincerely,
+Jessica",Technical Issue,Medium
+INC-2026195,"I cannot connect to the server. The connection keeps dropping.
+Thank you,
+John",Technical Issue,High
+INC-2026196,"Good morning, What are the system requirements for running your software?
+Sincerely,
+Sarah",General Query,Low
+INC-2026197,"Hi, I am seeing an unrecognized transaction of $196 on my card from your site.",Billing,High
+INC-2026198,"Hello, Our system integration with your webhook is failing with connection refused.
+Thank you,
+Megan",Technical Issue,High
+INC-2026199,I am unable to change my username. It says username already taken.,Account Access,Low
+INC-2026200,"Hi, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026201,"Hello team, Is it possible to switch my billing from monthly to yearly to get a discount?",Billing,Low
+INC-2026202,"Hello team, Can I get a copy of my invoice for February 2026?",Billing,Low
+INC-2026203,"My API key has leaked and I need to regenerate it immediately.
+Sincerely,
+Emily",Account Access,High
+INC-2026204,"Hi support team, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026205,"Hello, My data has not synced between the web app and the mobile application.
+Best regards,
+James",Technical Issue,Medium
+INC-2026206,"We are experiencing an API outage and all requests are returning 500 server errors.
+Thanks,
+David",Technical Issue,High
+INC-2026207,Database connection timeout error when saving my work on Jira.,Technical Issue,High
+INC-2026208,"Hello, I cannot connect to the server. The connection keeps dropping.
+Regards,
+Sarah",Technical Issue,High
+INC-2026209,"Dear Support, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026210,"Hi, Can you tell me more about your security and data compliance policies?",General Query,Low
+INC-2026211,"Hello team, Can you reset my password? I forgot it and need access.",Account Access,Low
+INC-2026212,"We are experiencing an API outage and all requests are returning 500 server errors.
+Thank you,
+Robert",Technical Issue,High
+INC-2026213,"Hello team, I am unable to receive password reset emails. The mail server seems down.
+Best regards,
+Daniel",Technical Issue,High
+INC-2026214,"Hey, My payment failed but money was deducted from my bank account.
+Sincerely,
+Emily",Billing,High
+INC-2026215,"My billing account is locked and I cannot process the invoice payment.
+- Megan",Billing,High
+INC-2026216,"Hello, The CSV export feature is broken. It downloads an empty file.
+- David",Technical Issue,Medium
+INC-2026217,"Good morning, I cannot connect to the server. The connection keeps dropping.
+Regards,
+Sarah",Technical Issue,High
+INC-2026218,"Hi, I want to enable two-factor authentication for my profile for security.
+Sincerely,
+Megan",Account Access,Low
+INC-2026219,"I need to delete my account and remove my personal data under GDPR rules.
+Thank you,
+Emily",Account Access,Low
+INC-2026220,"The search bar returns incorrect results for simple queries.
+Regards,
+Ashley",Technical Issue,Low
+INC-2026221,"Good morning, Unrecognized login detected on my account. I need to secure it.",Account Access,High
+INC-2026222,I would like to suggest a feature: adding a dark mode to the dashboard.,General Query,Low
+INC-2026223,"Hi, I need to delete my account and remove my personal data under GDPR rules.
+Thank you,
+Megan",Account Access,Low
+INC-2026224,"Greetings, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026225,I cannot log in to my account. It says password incorrect or user not found.,Account Access,Medium
+INC-2026226,"Greetings, I am seeing an unrecognized transaction of $130 on my card from your site.",Billing,High
+INC-2026227,"Dear Support, When is the new feature update scheduled for release?
+Thank you,
+Sarah",General Query,Low
+INC-2026228,"Greetings, I wanted to share some feedback: the new UI looks really clean!",General Query,Low
+INC-2026229,"I found a bug: the submit button is greyed out even when forms are complete.
+Thanks,
+James",Technical Issue,Medium
+INC-2026230,"Why was I charged $151 this month instead of the usual $51?
+Thanks,
+Sarah",Billing,Medium
+INC-2026231,"Hello, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026232,"Hello, Where can I find your API documentation and developers SDK guides?
+Regards,
+John",General Query,Low
+INC-2026233,"My account has been suspended and I don't know why. Please reactivate.
+Sincerely,
+Michael",Account Access,High
+INC-2026234,"Good morning, Can you update my billing address on the system? It should be 877 Main St, Cityville.",Billing,Low
+INC-2026235,"Greetings, Can I get a copy of my invoice for April 2025?
+Sincerely,
+Megan",Billing,Low
+INC-2026236,"Hi support team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-72204",Billing,Medium
+INC-2026237,"What are your business hours and customer support availability on weekends?
+Sincerely,
+James",General Query,Low
+INC-2026238,"Hello team, I want to update my payment method from Amex to Visa.
+Best regards,
+Megan",Billing,Low
+INC-2026239,"Greetings, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026240,"Hi, Can you merge my two accounts into a single one?
+Sincerely,
+John",Account Access,Low
+INC-2026241,"Greetings, I want to request a demo of your enterprise plan for my team.
+Sincerely,
+Jessica",General Query,Low
+INC-2026242,"Hi, I am unable to change my username. It says username already taken.
+Regards,
+Emily",Account Access,Low
+INC-2026243,"Can you update my billing address on the system? It should be 480 Main St, Cityville.
+- Ashley",Billing,Low
+INC-2026244,"Greetings, I want to update my payment method from Mastercard to Visa.",Billing,Low
+INC-2026245,"Hi, I cannot connect to the server. The connection keeps dropping.
+Best regards,
+Ashley",Technical Issue,High
+INC-2026246,"Hello team, I would like to suggest a feature: adding a dark mode to the dashboard.
+Regards,
+Robert",General Query,Low
+INC-2026247,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026248,"How do I add a new team member to my organization profile?
+Thank you,
+Ashley",Account Access,Low
+INC-2026249,"Good morning, Can you update my billing address on the system? It should be 703 Main St, Cityville.
+Regards,
+Sarah",Billing,Low
+INC-2026250,"Greetings, I received a payment failure notification but my credit card has sufficient funds.
+Best regards,
+Ashley",Billing,Medium
+INC-2026251,"Hi support team, I am seeing an unrecognized transaction of $35 on my card from your site.",Billing,High
+INC-2026252,"Dear Support, I want to update my payment method from Visa to Mastercard.
+Thank you,
+Emily",Billing,Low
+INC-2026253,"Greetings, How do I upgrade my subscription plan to premium?
+Regards,
+Megan",Account Access,Low
+INC-2026254,"Hello, How do I add a new team member to my organization profile?",Account Access,Low
+INC-2026255,"Greetings, I am unable to receive password reset emails. The mail server seems down.",Technical Issue,High
+INC-2026256,"Greetings, What are the system requirements for running your software?
+Sincerely,
+Emily",General Query,Low
+INC-2026257,"Greetings, Where can I find your API documentation and developers SDK guides?",General Query,Low
+INC-2026258,"Good morning, Can you merge my two accounts into a single one?",Account Access,Low
+INC-2026259,My credit card was charged twice for the monthly subscription on 21-03-2026. Please refund $139.,Billing,High
+INC-2026260,"Hello, Is your service compatible with Internet Explorer 11?",General Query,Low
+INC-2026261,"Hello, What are your business hours and customer support availability on weekends?
+Thank you,
+James",General Query,Low
+INC-2026262,"Hey, I am unable to change my username. It says username already taken.
+Regards,
+Sarah",Account Access,Low
+INC-2026263,"Dear Support, My credit card was charged twice for the monthly subscription on 06-08-2026. Please refund $45.
+Thanks,
+Sarah",Billing,High
+INC-2026264,"Good morning, What are your business hours and customer support availability on weekends?
+Thank you,
+Ashley",General Query,Low
+INC-2026265,"Dear Support, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026266,"My account has been suspended and I don't know why. Please reactivate.
+Sincerely,
+Megan",Account Access,High
+INC-2026267,"Good morning, Can you merge my two accounts into a single one?
+- Daniel",Account Access,Low
+INC-2026268,"Hey, I need to change my registered email from david30@gmail.com to david.new@company.com.",Account Access,Medium
+INC-2026269,"Dear Support, I was billed $62 during my free trial period. Please check and refund.
+Sincerely,
+Amanda",Billing,High
+INC-2026270,"Dear Support, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+Daniel",Account Access,High
+INC-2026271,"I am unable to receive password reset emails. The mail server seems down.
+Sincerely,
+Ashley",Technical Issue,High
+INC-2026272,"Hi, Why was I charged $81 this month instead of the usual $81?",Billing,Medium
+INC-2026273,My profile information is not updating when I save changes.,Account Access,Low
+INC-2026274,"Dear Support, My billing account is locked and I cannot process the invoice payment.
+- David",Billing,High
+INC-2026275,"Hi support team, I wanted to share some feedback: the new UI looks really clean!
+- John",General Query,Low
+INC-2026276,"I cannot log in to my account. It says password incorrect or user not found.
+- Jessica",Account Access,Medium
+INC-2026277,"Hi support team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-23621
+Best regards,
+Daniel",Billing,Medium
+INC-2026278,"Greetings, I want to update my payment method from Mastercard to Visa.
+Thank you,
+Amanda",Billing,Low
+INC-2026279,"Hi support team, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026280,"My profile information is not updating when I save changes.
+- Ashley",Account Access,Low
+INC-2026281,"Good morning, Can you merge my two accounts into a single one?
+Thanks,
+Sarah",Account Access,Low
+INC-2026282,"Hey, How do I upgrade my subscription plan to premium?",Account Access,Low
+INC-2026283,"I am unable to receive password reset emails. The mail server seems down.
+Thank you,
+Michael",Technical Issue,High
+INC-2026284,"Hey, I want to enable two-factor authentication for my profile for security.
+Best regards,
+Jessica",Account Access,Low
+INC-2026285,"Hello team, Unrecognized login detected on my account. I need to secure it.
+Thank you,
+Michael",Account Access,High
+INC-2026286,"Can you tell me more about your security and data compliance policies?
+Sincerely,
+Michael",General Query,Low
+INC-2026287,"Greetings, I was billed $227 during my free trial period. Please check and refund.
+Best regards,
+Amanda",Billing,High
+INC-2026288,I need to change my registered email from robert74@gmail.com to robert.new@company.com.,Account Access,Medium
+INC-2026289,I cannot connect to the server. The connection keeps dropping.,Technical Issue,High
+INC-2026290,"Hey, The website crashes whenever I try to upload my profile photo or files.
+Regards,
+James",Technical Issue,Medium
+INC-2026291,"Hello team, I get a 404 page not found error when clicking on the dashboard link.
+Thank you,
+David",Technical Issue,Medium
+INC-2026292,"Hi support team, Is it possible to switch my billing from monthly to yearly to get a discount?
+Thank you,
+Emily",Billing,Low
+INC-2026293,"My API key has leaked and I need to regenerate it immediately.
+Best regards,
+John",Account Access,High
+INC-2026294,"I received a payment failure notification but my credit card has sufficient funds.
+Thank you,
+Megan",Billing,Medium
+INC-2026295,"Hi support team, Where can I find your API documentation and developers SDK guides?",General Query,Low
+INC-2026296,"Hi support team, Where can I find your API documentation and developers SDK guides?",General Query,Low
+INC-2026297,"Greetings, The CSV export feature is broken. It downloads an empty file.
+Thank you,
+John",Technical Issue,Medium
+INC-2026298,"My profile information is not updating when I save changes.
+Thank you,
+Ashley",Account Access,Low
+INC-2026299,"Good morning, How do I upgrade my subscription plan to premium?
+Best regards,
+James",Account Access,Low
+INC-2026300,"Greetings, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026301,"Hi, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026302,"Good morning, I would like to suggest a feature: adding a dark mode to the dashboard.",General Query,Low
+INC-2026303,"Greetings, How do I upgrade my subscription plan to premium?",Account Access,Low
+INC-2026304,How do I upgrade my subscription plan to premium?,Account Access,Low
+INC-2026305,"Hello team, Unrecognized login detected on my account. I need to secure it.
+Regards,
+Sarah",Account Access,High
+INC-2026306,The CSV export feature is broken. It downloads an empty file.,Technical Issue,Medium
+INC-2026307,"Greetings, My billing account is locked and I cannot process the invoice payment.
+- Amanda",Billing,High
+INC-2026308,"Hey, I want to update my payment method from Amex to Visa.",Billing,Low
+INC-2026309,"Dear Support, Why was I charged $220 this month instead of the usual $53?
+Best regards,
+David",Billing,Medium
+INC-2026310,"Greetings, Our system integration with your webhook is failing with connection refused.
+- Emily",Technical Issue,High
+INC-2026311,"I want to update my payment method from Mastercard to Visa.
+Thank you,
+Robert",Billing,Low
+INC-2026312,"Good morning, I wanted to share some feedback: the new UI looks really clean!
+Regards,
+Jessica",General Query,Low
+INC-2026313,"Good morning, My profile information is not updating when I save changes.
+Regards,
+Jessica",Account Access,Low
+INC-2026314,"I need to change my registered email from david58@gmail.com to david.new@company.com.
+Sincerely,
+David",Account Access,Medium
+INC-2026315,"Hello, The mobile app freezes and closes automatically when opening reports.
+Sincerely,
+Ashley",Technical Issue,Medium
+INC-2026316,"Hey, The website crashes whenever I try to upload my profile photo or files.
+Thank you,
+Jessica",Technical Issue,Medium
+INC-2026317,"Good morning, My payment failed but money was deducted from my bank account.
+Thank you,
+Jessica",Billing,High
+INC-2026318,"Hey, The application is extremely slow and takes minutes to load pages.
+- Emily",Technical Issue,High
+INC-2026319,"Hi support team, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026320,"Do you offer discounts for non-profit organizations or educational schools?
+Thank you,
+Sarah",General Query,Low
+INC-2026321,"Hello team, How do I upgrade my subscription plan to premium?
+Thank you,
+John",Account Access,Low
+INC-2026322,"Dear Support, I am unable to change my username. It says username already taken.
+Thank you,
+Daniel",Account Access,Low
+INC-2026323,"I want to enable two-factor authentication for my profile for security.
+Thank you,
+Michael",Account Access,Low
+INC-2026324,"Dear Support, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026325,Is your service compatible with Internet Explorer 11?,General Query,Low
+INC-2026326,"We are experiencing an API outage and all requests are returning 500 server errors.
+Thanks,
+David",Technical Issue,High
+INC-2026327,"Hey, Database connection timeout error when saving my work on GitHub.
+Thank you,
+John",Technical Issue,High
+INC-2026328,"How do I add a new team member to my organization profile?
+Thank you,
+Daniel",Account Access,Low
+INC-2026329,"Dear Support, I requested a refund of $73 last week but haven't received it yet.
+Sincerely,
+Ashley",Billing,High
+INC-2026330,"Dear Support, I want to enable two-factor authentication for my profile for security.
+Best regards,
+David",Account Access,Low
+INC-2026331,"Hello team, Can you tell me more about your security and data compliance policies?
+Best regards,
+John",General Query,Low
+INC-2026332,"Hello team, The mobile app freezes and closes automatically when opening reports.
+Sincerely,
+Megan",Technical Issue,Medium
+INC-2026333,"Greetings, Unrecognized login detected on my account. I need to secure it.",Account Access,High
+INC-2026334,"Greetings, My data has not synced between the web app and the mobile application.",Technical Issue,Medium
+INC-2026335,What are the system requirements for running your software?,General Query,Low
+INC-2026336,"Hi support team, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026337,"Dear Support, How can I contact sales for custom licensing terms?
+Thanks,
+Amanda",General Query,Low
+INC-2026338,I would like to suggest a feature: adding a dark mode to the dashboard.,General Query,Low
+INC-2026339,"Hi, Can you reset my password? I forgot it and need access.
+- David",Account Access,Low
+INC-2026340,"Hello team, What are the system requirements for running your software?
+- Sarah",General Query,Low
+INC-2026341,"Hey, Can you tell me more about your security and data compliance policies?
+Thank you,
+Amanda",General Query,Low
+INC-2026342,"Is your service compatible with Internet Explorer 11?
+Sincerely,
+John",General Query,Low
+INC-2026343,"Dear Support, I am unable to change my username. It says username already taken.",Account Access,Low
+INC-2026344,"Hi support team, Can you reset my password? I forgot it and need access.
+Regards,
+Emily",Account Access,Low
+INC-2026345,"Hello, I was billed $107 during my free trial period. Please check and refund.
+Sincerely,
+Sarah",Billing,High
+INC-2026346,"Good morning, What are your business hours and customer support availability on weekends?
+- Emily",General Query,Low
+INC-2026347,"Hi support team, Can you update my billing address on the system? It should be 444 Main St, Cityville.
+Thank you,
+Amanda",Billing,Low
+INC-2026348,"I cannot connect to the server. The connection keeps dropping.
+Regards,
+Daniel",Technical Issue,High
+INC-2026349,"Greetings, I requested a refund of $118 last week but haven't received it yet.
+Thank you,
+Michael",Billing,High
+INC-2026350,"Can you update my billing address on the system? It should be 215 Main St, Cityville.
+Thanks,
+Amanda",Billing,Low
+INC-2026351,"Hi, How do I add a new team member to my organization profile?
+Sincerely,
+Daniel",Account Access,Low
+INC-2026352,"Hello, Why was I charged $144 this month instead of the usual $15?",Billing,Medium
+INC-2026353,"Hi support team, Can you merge my two accounts into a single one?
+Thank you,
+David",Account Access,Low
+INC-2026354,"Hello, Can I get a copy of my invoice for December 2025?
+Regards,
+Jessica",Billing,Low
+INC-2026355,"Can you merge my two accounts into a single one?
+Sincerely,
+Daniel",Account Access,Low
+INC-2026356,"Hi, Database connection timeout error when saving my work on GitHub.",Technical Issue,High
+INC-2026357,"Hi, The CSV export feature is broken. It downloads an empty file.
+- Robert",Technical Issue,Medium
+INC-2026358,"Hi support team, Can I get a copy of my invoice for June 2026?",Billing,Low
+INC-2026359,"My billing account is locked and I cannot process the invoice payment.
+Best regards,
+James",Billing,High
+INC-2026360,"Hello, What are the system requirements for running your software?
+Thank you,
+David",General Query,Low
+INC-2026361,"Good morning, Our system integration with your webhook is failing with connection refused.
+Thanks,
+Megan",Technical Issue,High
+INC-2026362,"Good morning, What are the system requirements for running your software?
+Thanks,
+Ashley",General Query,Low
+INC-2026363,"I wanted to share some feedback: the new UI looks really clean!
+Sincerely,
+Ashley",General Query,Low
+INC-2026364,"Hi, The mobile app freezes and closes automatically when opening reports.
+Sincerely,
+Robert",Technical Issue,Medium
+INC-2026365,"Good morning, The mobile app freezes and closes automatically when opening reports.
+- Sarah",Technical Issue,Medium
+INC-2026366,"Greetings, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026367,"Dear Support, Database connection timeout error when saving my work on Slack.",Technical Issue,High
+INC-2026368,When is the new feature update scheduled for release?,General Query,Low
+INC-2026369,I cannot log in to my account. It says password incorrect or user not found.,Account Access,Medium
+INC-2026370,"The mobile app freezes and closes automatically when opening reports.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026371,"Hey, I want to enable two-factor authentication for my profile for security.
+Regards,
+Amanda",Account Access,Low
+INC-2026372,I am unable to change my username. It says username already taken.,Account Access,Low
+INC-2026373,"Dear Support, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026374,"Good morning, Our system integration with your webhook is failing with connection refused.
+- John",Technical Issue,High
+INC-2026375,"Hello team, Can I get a copy of my invoice for November 2026?
+Thank you,
+Ashley",Billing,Low
+INC-2026376,Is it possible to switch my billing from monthly to yearly to get a discount?,Billing,Low
+INC-2026377,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026378,"Greetings, The search bar returns incorrect results for simple queries.
+Best regards,
+David",Technical Issue,Low
+INC-2026379,"Hi support team, The search bar returns incorrect results for simple queries.",Technical Issue,Low
+INC-2026380,"Hello team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-23513",Billing,Medium
+INC-2026381,"Hi support team, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
+INC-2026382,"Hi, I am unable to change my username. It says username already taken.",Account Access,Low
+INC-2026383,"Dear Support, I requested a refund of $32 last week but haven't received it yet.
+Sincerely,
+Amanda",Billing,High
+INC-2026384,My billing account is locked and I cannot process the invoice payment.,Billing,High
+INC-2026385,"Greetings, I want to enable two-factor authentication for my profile for security.
+Regards,
+Sarah",Account Access,Low
+INC-2026386,"Dear Support, My profile information is not updating when I save changes.
+- Michael",Account Access,Low
+INC-2026387,"Hi support team, The mobile app freezes and closes automatically when opening reports.
+Sincerely,
+Daniel",Technical Issue,Medium
+INC-2026388,"Good morning, Do you offer discounts for non-profit organizations or educational schools?
+Sincerely,
+Michael",General Query,Low
+INC-2026389,"Greetings, I requested a refund of $237 last week but haven't received it yet.",Billing,High
+INC-2026390,"Hello, My account has been suspended and I don't know why. Please reactivate.
+- Amanda",Account Access,High
+INC-2026391,"Good morning, My credit card was charged twice for the monthly subscription on 23-09-2026. Please refund $220.
+Thank you,
+Robert",Billing,High
+INC-2026392,I am unable to receive password reset emails. The mail server seems down.,Technical Issue,High
+INC-2026393,"Can I get a copy of my invoice for March 2025?
+- Ashley",Billing,Low
+INC-2026394,"Hello team, Is your service compatible with Internet Explorer 11?",General Query,Low
+INC-2026395,"Hi support team, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026396,"Hello team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-80127
+Regards,
+Ashley",Billing,Medium
+INC-2026397,I need to delete my account and remove my personal data under GDPR rules.,Account Access,Low
+INC-2026398,"Hey, Unrecognized login detected on my account. I need to secure it.
+Thanks,
+Michael",Account Access,High
+INC-2026399,"I received a payment failure notification but my credit card has sufficient funds.
+Thanks,
+Megan",Billing,Medium
+INC-2026400,"Can you reset my password? I forgot it and need access.
+Regards,
+James",Account Access,Low
+INC-2026401,"Good morning, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-49500
+Best regards,
+Megan",Billing,Medium
+INC-2026402,"What are your business hours and customer support availability on weekends?
+Regards,
+Robert",General Query,Low
+INC-2026403,When is the new feature update scheduled for release?,General Query,Low
+INC-2026404,"Hello, Do you offer discounts for non-profit organizations or educational schools?
+Sincerely,
+David",General Query,Low
+INC-2026405,"The CSV export feature is broken. It downloads an empty file.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026406,"Hello, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026407,"Dear Support, I need to delete my account and remove my personal data under GDPR rules.
+Thanks,
+Sarah",Account Access,Low
+INC-2026408,"Hello, What are the system requirements for running your software?
+Regards,
+Ashley",General Query,Low
+INC-2026409,"Our system integration with your webhook is failing with connection refused.
+Sincerely,
+Megan",Technical Issue,High
+INC-2026410,"Hey, Do you offer discounts for non-profit organizations or educational schools?
+Best regards,
+Jessica",General Query,Low
+INC-2026411,Why was I charged $86 this month instead of the usual $99?,Billing,Medium
+INC-2026412,"The mobile app freezes and closes automatically when opening reports.
+Thanks,
+John",Technical Issue,Medium
+INC-2026413,"Hello, Do you offer discounts for non-profit organizations or educational schools?
+- Sarah",General Query,Low
+INC-2026414,"Can you update my billing address on the system? It should be 414 Main St, Cityville.
+Thanks,
+Amanda",Billing,Low
+INC-2026415,"Hi, Do you support integration with Slack or Microsoft Teams?
+Best regards,
+Jessica",General Query,Low
+INC-2026416,I received a payment failure notification but my credit card has sufficient funds.,Billing,Medium
+INC-2026417,"Hey, Can I get a copy of my invoice for March 2025?
+Thank you,
+John",Billing,Low
+INC-2026418,"Hi support team, I found a bug: the submit button is greyed out even when forms are complete.
+Regards,
+Amanda",Technical Issue,Medium
+INC-2026419,I need to change my registered email from ashley45@gmail.com to ashley.new@company.com.,Account Access,Medium
+INC-2026420,"I am unable to receive password reset emails. The mail server seems down.
+Thank you,
+Michael",Technical Issue,High
+INC-2026421,"Greetings, I requested a refund of $246 last week but haven't received it yet.
+Regards,
+Daniel",Billing,High
+INC-2026422,"Dear Support, Is there a feature to export reports as PDF or CSV?",General Query,Low
+INC-2026423,"Hey, What are your business hours and customer support availability on weekends?",General Query,Low
+INC-2026424,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026425,"I cannot connect to the server. The connection keeps dropping.
+Sincerely,
+David",Technical Issue,High
+INC-2026426,"Hello, I found a bug: the submit button is greyed out even when forms are complete.
+Thank you,
+John",Technical Issue,Medium
+INC-2026427,I would like to suggest a feature: adding a dark mode to the dashboard.,General Query,Low
+INC-2026428,"Good morning, My credit card was charged twice for the monthly subscription on 16-11-2026. Please refund $88.",Billing,High
+INC-2026429,"Dear Support, Can you merge my two accounts into a single one?
+Thanks,
+Michael",Account Access,Low
+INC-2026430,"Hi support team, My API key has leaked and I need to regenerate it immediately.
+Best regards,
+Ashley",Account Access,High
+INC-2026431,"Hey, The search bar returns incorrect results for simple queries.",Technical Issue,Low
+INC-2026432,"Hi support team, I want to enable two-factor authentication for my profile for security.",Account Access,Low
+INC-2026433,Do you offer discounts for non-profit organizations or educational schools?,General Query,Low
+INC-2026434,"I am seeing an unrecognized transaction of $148 on my card from your site.
+- Michael",Billing,High
+INC-2026435,"I need to change my registered email from ashley82@gmail.com to ashley.new@company.com.
+Best regards,
+Ashley",Account Access,Medium
+INC-2026436,"How do I upgrade my subscription plan to premium?
+Sincerely,
+Amanda",Account Access,Low
+INC-2026437,"Hello team, The application is extremely slow and takes minutes to load pages.
+Best regards,
+Emily",Technical Issue,High
+INC-2026438,"How do I add a new team member to my organization profile?
+- Ashley",Account Access,Low
+INC-2026439,"Hi, Can you merge my two accounts into a single one?
+Thanks,
+Jessica",Account Access,Low
+INC-2026440,"Hey, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026441,"Hi, Is it possible to switch my billing from monthly to yearly to get a discount?
+Thank you,
+Amanda",Billing,Low
+INC-2026442,"Hey, I need to change my registered email from david63@gmail.com to david.new@company.com.",Account Access,Medium
+INC-2026443,"Good morning, What are the system requirements for running your software?",General Query,Low
+INC-2026444,"Hey, How can I contact sales for custom licensing terms?
+Regards,
+Michael",General Query,Low
+INC-2026445,"I wanted to share some feedback: the new UI looks really clean!
+Sincerely,
+Sarah",General Query,Low
+INC-2026446,"Hello team, The website crashes whenever I try to upload my profile photo or files.
+- Michael",Technical Issue,Medium
+INC-2026447,"Hello team, I am seeing an unrecognized transaction of $24 on my card from your site.",Billing,High
+INC-2026448,"Hey, I am unable to change my username. It says username already taken.",Account Access,Low
+INC-2026449,"Hi, Can you reset my password? I forgot it and need access.",Account Access,Low
+INC-2026450,"Hey, My data has not synced between the web app and the mobile application.
+Best regards,
+Sarah",Technical Issue,Medium
+INC-2026451,Do you support integration with Slack or Microsoft Teams?,General Query,Low
+INC-2026452,"Database connection timeout error when saving my work on Docker.
+- John",Technical Issue,High
+INC-2026453,"Hi, I want to update my payment method from Mastercard to Visa.
+Thanks,
+Amanda",Billing,Low
+INC-2026454,"Hello, Can I get a copy of my invoice for June 2026?
+Sincerely,
+Daniel",Billing,Low
+INC-2026455,"Good morning, We are experiencing an API outage and all requests are returning 500 server errors.
+- Ashley",Technical Issue,High
+INC-2026456,"Hi support team, I get a 404 page not found error when clicking on the dashboard link.
+Thank you,
+Daniel",Technical Issue,Medium
+INC-2026457,"Hello, Can you merge my two accounts into a single one?
+Thank you,
+Sarah",Account Access,Low
+INC-2026458,"Why was I charged $178 this month instead of the usual $96?
+Regards,
+Megan",Billing,Medium
+INC-2026459,"Good morning, The CSV export feature is broken. It downloads an empty file.
+- James",Technical Issue,Medium
+INC-2026460,"Greetings, I need to delete my account and remove my personal data under GDPR rules.
+Best regards,
+John",Account Access,Low
+INC-2026461,"Greetings, Do you support integration with Slack or Microsoft Teams?
+- Ashley",General Query,Low
+INC-2026462,"Hello, Unrecognized login detected on my account. I need to secure it.",Account Access,High
+INC-2026463,"Hi, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+James",Account Access,High
+INC-2026464,"Hello team, How do I add a new team member to my organization profile?
+- Amanda",Account Access,Low
+INC-2026465,"My billing account is locked and I cannot process the invoice payment.
+Thanks,
+John",Billing,High
+INC-2026466,"I am seeing an unrecognized transaction of $53 on my card from your site.
+Thanks,
+Amanda",Billing,High
+INC-2026467,"Hello team, I need to change my registered email from jessica74@gmail.com to jessica.new@company.com.",Account Access,Medium
+INC-2026468,"Hi support team, I want to enable two-factor authentication for my profile for security.
+- Michael",Account Access,Low
+INC-2026469,"Good morning, I received a payment failure notification but my credit card has sufficient funds.
+Regards,
+Sarah",Billing,Medium
+INC-2026470,"Greetings, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026471,"Hi support team, Do you support integration with Slack or Microsoft Teams?
+Thank you,
+Emily",General Query,Low
+INC-2026472,"My account has been suspended and I don't know why. Please reactivate.
+Thank you,
+Emily",Account Access,High
+INC-2026473,"Hello, I wanted to share some feedback: the new UI looks really clean!
+Thank you,
+Michael",General Query,Low
+INC-2026474,"My credit card was charged twice for the monthly subscription on 28-02-2026. Please refund $90.
+Thanks,
+Robert",Billing,High
+INC-2026475,How do I add a new team member to my organization profile?,Account Access,Low
+INC-2026476,"Hey, We are experiencing an API outage and all requests are returning 500 server errors.
+Best regards,
+Jessica",Technical Issue,High
+INC-2026477,"Hey, How do I add a new team member to my organization profile?
+Sincerely,
+Megan",Account Access,Low
+INC-2026478,"Unrecognized login detected on my account. I need to secure it.
+Best regards,
+Michael",Account Access,High
+INC-2026479,"Hi support team, How can I contact sales for custom licensing terms?
+Sincerely,
+Megan",General Query,Low
+INC-2026480,"Hi, I am unable to change my username. It says username already taken.",Account Access,Low
+INC-2026481,"Hi, I am unable to receive password reset emails. The mail server seems down.",Technical Issue,High
+INC-2026482,"Dear Support, Unrecognized login detected on my account. I need to secure it.
+Thank you,
+John",Account Access,High
+INC-2026483,"Hi support team, We are experiencing an API outage and all requests are returning 500 server errors.",Technical Issue,High
+INC-2026484,"I would like to suggest a feature: adding a dark mode to the dashboard.
+- Megan",General Query,Low
+INC-2026485,"Dear Support, We are experiencing an API outage and all requests are returning 500 server errors.
+Sincerely,
+Michael",Technical Issue,High
+INC-2026486,Do you offer discounts for non-profit organizations or educational schools?,General Query,Low
+INC-2026487,"Hello, My credit card was charged twice for the monthly subscription on 11-04-2026. Please refund $130.
+Regards,
+Michael",Billing,High
+INC-2026488,"Hi, My data has not synced between the web app and the mobile application.
+Regards,
+Emily",Technical Issue,Medium
+INC-2026489,"Greetings, I need to change my registered email from megan29@gmail.com to megan.new@company.com.",Account Access,Medium
+INC-2026490,"Greetings, The website crashes whenever I try to upload my profile photo or files.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026491,"Hello, Database connection timeout error when saving my work on Salesforce.
+- Amanda",Technical Issue,High
+INC-2026492,"Hi support team, I get a 404 page not found error when clicking on the dashboard link.
+Best regards,
+James",Technical Issue,Medium
+INC-2026493,"Greetings, I requested a refund of $178 last week but haven't received it yet.
+Sincerely,
+Jessica",Billing,High
+INC-2026494,"Hi, I found a bug: the submit button is greyed out even when forms are complete.",Technical Issue,Medium
+INC-2026495,"Hey, Do you offer discounts for non-profit organizations or educational schools?
+- Sarah",General Query,Low
+INC-2026496,"Hi support team, The search bar returns incorrect results for simple queries.
+Regards,
+Ashley",Technical Issue,Low
+INC-2026497,"Hi support team, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026498,Do you offer discounts for non-profit organizations or educational schools?,General Query,Low
+INC-2026499,"Greetings, Is it possible to switch my billing from monthly to yearly to get a discount?",Billing,Low
+INC-2026500,"Hi, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026501,"I was billed $233 during my free trial period. Please check and refund.
+Sincerely,
+Robert",Billing,High
+INC-2026502,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026503,"Greetings, I was billed $63 during my free trial period. Please check and refund.",Billing,High
+INC-2026504,"What are your business hours and customer support availability on weekends?
+Thank you,
+Ashley",General Query,Low
+INC-2026505,"Greetings, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026506,"Hello team, Is it possible to switch my billing from monthly to yearly to get a discount?
+Thank you,
+Ashley",Billing,Low
+INC-2026507,"Greetings, Can I get a copy of my invoice for June 2026?",Billing,Low
+INC-2026508,"Hi support team, My API key has leaked and I need to regenerate it immediately.
+Best regards,
+Amanda",Account Access,High
+INC-2026509,"Hey, I found a bug: the submit button is greyed out even when forms are complete.
+Best regards,
+Daniel",Technical Issue,Medium
+INC-2026510,"Hello, My data has not synced between the web app and the mobile application.
+- Ashley",Technical Issue,Medium
+INC-2026511,"Hi support team, I need to delete my account and remove my personal data under GDPR rules.
+Thanks,
+Ashley",Account Access,Low
+INC-2026512,"Can I get a copy of my invoice for June 2025?
+Best regards,
+Daniel",Billing,Low
+INC-2026513,"Good morning, Can you update my billing address on the system? It should be 449 Main St, Cityville.
+Sincerely,
+Sarah",Billing,Low
+INC-2026514,"Hello, The application is extremely slow and takes minutes to load pages.
+- Daniel",Technical Issue,High
+INC-2026515,"Hey, I requested a refund of $112 last week but haven't received it yet.
+Sincerely,
+Amanda",Billing,High
+INC-2026516,"Greetings, My API key has leaked and I need to regenerate it immediately.
+Sincerely,
+Megan",Account Access,High
+INC-2026517,"Hello team, I would like to suggest a feature: adding a dark mode to the dashboard.
+Best regards,
+David",General Query,Low
+INC-2026518,"My credit card was charged twice for the monthly subscription on 26-09-2026. Please refund $161.
+Thanks,
+Megan",Billing,High
+INC-2026519,"My billing account is locked and I cannot process the invoice payment.
+Sincerely,
+Megan",Billing,High
+INC-2026520,"Our system integration with your webhook is failing with connection refused.
+Thank you,
+Jessica",Technical Issue,High
+INC-2026521,"Good morning, I requested a refund of $237 last week but haven't received it yet.
+- James",Billing,High
+INC-2026522,"Hi, How can I contact sales for custom licensing terms?
+- Daniel",General Query,Low
+INC-2026523,"I was billed $131 during my free trial period. Please check and refund.
+Thanks,
+Amanda",Billing,High
+INC-2026524,"Hey, Database connection timeout error when saving my work on GitHub.
+Best regards,
+Amanda",Technical Issue,High
+INC-2026525,"Hello team, Our system integration with your webhook is failing with connection refused.
+Thank you,
+Ashley",Technical Issue,High
+INC-2026526,"I cannot connect to the server. The connection keeps dropping.
+- Amanda",Technical Issue,High
+INC-2026527,"Dear Support, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-13251
+- Daniel",Billing,Medium
+INC-2026528,"I received a payment failure notification but my credit card has sufficient funds.
+- John",Billing,Medium
+INC-2026529,"Do you offer discounts for non-profit organizations or educational schools?
+Thank you,
+Robert",General Query,Low
+INC-2026530,"Hello, Can you reset my password? I forgot it and need access.
+Regards,
+Emily",Account Access,Low
+INC-2026531,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026532,"Dear Support, The mobile app freezes and closes automatically when opening reports.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026533,"Hi, I am unable to change my username. It says username already taken.
+Best regards,
+Ashley",Account Access,Low
+INC-2026534,"My data has not synced between the web app and the mobile application.
+Regards,
+James",Technical Issue,Medium
+INC-2026535,"Hi, Can you merge my two accounts into a single one?
+Regards,
+Michael",Account Access,Low
+INC-2026536,"Hello team, Is there a feature to export reports as PDF or CSV?",General Query,Low
+INC-2026537,"Hi support team, I cannot log in to my account. It says password incorrect or user not found.
+Sincerely,
+Robert",Account Access,Medium
+INC-2026538,"Greetings, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026539,"Hello team, My billing account is locked and I cannot process the invoice payment.",Billing,High
+INC-2026540,"Hi, What are the system requirements for running your software?",General Query,Low
+INC-2026541,"Greetings, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026542,"Dear Support, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026543,"Hi support team, I wanted to share some feedback: the new UI looks really clean!
+Best regards,
+Megan",General Query,Low
+INC-2026544,"The search bar returns incorrect results for simple queries.
+Regards,
+Amanda",Technical Issue,Low
+INC-2026545,"Hello, My payment failed but money was deducted from my bank account.
+Sincerely,
+Amanda",Billing,High
+INC-2026546,My billing account is locked and I cannot process the invoice payment.,Billing,High
+INC-2026547,"Hello, Is your service compatible with Internet Explorer 11?
+Regards,
+Robert",General Query,Low
+INC-2026548,"Greetings, Database connection timeout error when saving my work on Salesforce.",Technical Issue,High
+INC-2026549,"Hello team, I cannot connect to the server. The connection keeps dropping.",Technical Issue,High
+INC-2026550,"Dear Support, Is it possible to switch my billing from monthly to yearly to get a discount?
+Regards,
+Robert",Billing,Low
+INC-2026551,"Hi support team, I am unable to receive password reset emails. The mail server seems down.
+Thanks,
+Amanda",Technical Issue,High
+INC-2026552,Is there a feature to export reports as PDF or CSV?,General Query,Low
+INC-2026553,"Dear Support, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026554,"I found a bug: the submit button is greyed out even when forms are complete.
+Thank you,
+Emily",Technical Issue,Medium
+INC-2026555,"My payment failed but money was deducted from my bank account.
+Best regards,
+Megan",Billing,High
+INC-2026556,My data has not synced between the web app and the mobile application.,Technical Issue,Medium
+INC-2026557,"Hello team, The website crashes whenever I try to upload my profile photo or files.
+Thank you,
+James",Technical Issue,Medium
+INC-2026558,The search bar returns incorrect results for simple queries.,Technical Issue,Low
+INC-2026559,"Hey, I get a 404 page not found error when clicking on the dashboard link.
+Regards,
+Daniel",Technical Issue,Medium
+INC-2026560,"Good morning, The CSV export feature is broken. It downloads an empty file.",Technical Issue,Medium
+INC-2026561,"Is there a feature to export reports as PDF or CSV?
+- Michael",General Query,Low
+INC-2026562,"Hey, The search bar returns incorrect results for simple queries.
+Thank you,
+Megan",Technical Issue,Low
+INC-2026563,"Do you support integration with Slack or Microsoft Teams?
+- David",General Query,Low
+INC-2026564,What are the system requirements for running your software?,General Query,Low
+INC-2026565,"Hello team, We are experiencing an API outage and all requests are returning 500 server errors.
+- James",Technical Issue,High
+INC-2026566,"Hello team, Can I get a copy of my invoice for October 2026?
+Thank you,
+Sarah",Billing,Low
+INC-2026567,"Can you reset my password? I forgot it and need access.
+Regards,
+John",Account Access,Low
+INC-2026568,"Hi support team, I found a bug: the submit button is greyed out even when forms are complete.",Technical Issue,Medium
+INC-2026569,"When is the new feature update scheduled for release?
+Thank you,
+Emily",General Query,Low
+INC-2026570,How do I upgrade my subscription plan to premium?,Account Access,Low
+INC-2026571,"Hi, Can you tell me more about your security and data compliance policies?
+Thanks,
+Amanda",General Query,Low
+INC-2026572,"What are the system requirements for running your software?
+Thanks,
+Ashley",General Query,Low
+INC-2026573,"Good morning, I need to change my registered email from james58@gmail.com to james.new@company.com.
+Thank you,
+James",Account Access,Medium
+INC-2026574,"My credit card was charged twice for the monthly subscription on 09-02-2026. Please refund $191.
+Best regards,
+Sarah",Billing,High
+INC-2026575,"Hi, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026576,"Dear Support, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-50412
+Regards,
+John",Billing,Medium
+INC-2026577,I found a bug: the submit button is greyed out even when forms are complete.,Technical Issue,Medium
+INC-2026578,"I wanted to share some feedback: the new UI looks really clean!
+Best regards,
+Robert",General Query,Low
+INC-2026579,Why was I charged $13 this month instead of the usual $59?,Billing,Medium
+INC-2026580,"Hi, Unrecognized login detected on my account. I need to secure it.
+Sincerely,
+James",Account Access,High
+INC-2026581,"Can you merge my two accounts into a single one?
+Thanks,
+Daniel",Account Access,Low
+INC-2026582,How do I upgrade my subscription plan to premium?,Account Access,Low
+INC-2026583,"Hello, Can you update my billing address on the system? It should be 425 Main St, Cityville.",Billing,Low
+INC-2026584,"Hello, I want to enable two-factor authentication for my profile for security.",Account Access,Low
+INC-2026585,"Hey, Do you offer discounts for non-profit organizations or educational schools?",General Query,Low
+INC-2026586,"Hello team, I found a bug: the submit button is greyed out even when forms are complete.
+Best regards,
+Michael",Technical Issue,Medium
+INC-2026587,"Hi, When is the new feature update scheduled for release?",General Query,Low
+INC-2026588,I want to request a demo of your enterprise plan for my team.,General Query,Low
+INC-2026589,"Hi support team, Is it possible to switch my billing from monthly to yearly to get a discount?
+Thanks,
+Ashley",Billing,Low
+INC-2026590,"Good morning, Why was I charged $59 this month instead of the usual $65?
+Best regards,
+Megan",Billing,Medium
+INC-2026591,What are your business hours and customer support availability on weekends?,General Query,Low
+INC-2026592,"Good morning, The website crashes whenever I try to upload my profile photo or files.
+Sincerely,
+Emily",Technical Issue,Medium
+INC-2026593,"Hello, I would like to suggest a feature: adding a dark mode to the dashboard.
+Thank you,
+Megan",General Query,Low
+INC-2026594,"Dear Support, I requested a refund of $116 last week but haven't received it yet.
+- Emily",Billing,High
+INC-2026595,"Hi support team, I want to update my payment method from PayPal to Visa.
+Best regards,
+Robert",Billing,Low
+INC-2026596,"Hello, I am seeing an unrecognized transaction of $41 on my card from your site.",Billing,High
+INC-2026597,"Hello team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-89034
+Regards,
+Ashley",Billing,Medium
+INC-2026598,"Hi, How do I upgrade my subscription plan to premium?",Account Access,Low
+INC-2026599,"Is it possible to switch my billing from monthly to yearly to get a discount?
+Regards,
+Daniel",Billing,Low
+INC-2026600,"Greetings, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-89529
+Sincerely,
+Robert",Billing,Medium
+INC-2026601,"Greetings, I was billed $165 during my free trial period. Please check and refund.",Billing,High
+INC-2026602,"Do you offer discounts for non-profit organizations or educational schools?
+Thank you,
+Sarah",General Query,Low
+INC-2026603,"Hi support team, How do I upgrade my subscription plan to premium?
+Thank you,
+Sarah",Account Access,Low
+INC-2026604,"Dear Support, How can I contact sales for custom licensing terms?
+Thanks,
+Sarah",General Query,Low
+INC-2026605,"Hi, I need to delete my account and remove my personal data under GDPR rules.
+- Robert",Account Access,Low
+INC-2026606,"Hi, Database connection timeout error when saving my work on Jira.
+Sincerely,
+Ashley",Technical Issue,High
+INC-2026607,"I received a payment failure notification but my credit card has sufficient funds.
+Thanks,
+James",Billing,Medium
+INC-2026608,"Hi, I need to delete my account and remove my personal data under GDPR rules.
+- Megan",Account Access,Low
+INC-2026609,"Good morning, Can you tell me more about your security and data compliance policies?",General Query,Low
+INC-2026610,"Hey, Unrecognized login detected on my account. I need to secure it.
+Best regards,
+Amanda",Account Access,High
+INC-2026611,"Good morning, I cannot connect to the server. The connection keeps dropping.
+Best regards,
+James",Technical Issue,High
+INC-2026612,I requested a refund of $55 last week but haven't received it yet.,Billing,High
+INC-2026613,"Greetings, I want to request a demo of your enterprise plan for my team.
+Thanks,
+Ashley",General Query,Low
+INC-2026614,"I requested a refund of $174 last week but haven't received it yet.
+Sincerely,
+Michael",Billing,High
+INC-2026615,"Hi support team, I want to request a demo of your enterprise plan for my team.
+Best regards,
+Daniel",General Query,Low
+INC-2026616,Can I get a copy of my invoice for January 2026?,Billing,Low
+INC-2026617,"Hey, Unrecognized login detected on my account. I need to secure it.
+Thank you,
+James",Account Access,High
+INC-2026618,"The CSV export feature is broken. It downloads an empty file.
+Best regards,
+David",Technical Issue,Medium
+INC-2026619,"Hi, The CSV export feature is broken. It downloads an empty file.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026620,"Hi, Can you merge my two accounts into a single one?
+Best regards,
+Megan",Account Access,Low
+INC-2026621,"Hi support team, Unrecognized login detected on my account. I need to secure it.
+Regards,
+James",Account Access,High
+INC-2026622,"Hey, I need to delete my account and remove my personal data under GDPR rules.
+Thank you,
+Sarah",Account Access,Low
+INC-2026623,"Is it possible to switch my billing from monthly to yearly to get a discount?
+Sincerely,
+Emily",Billing,Low
+INC-2026624,"Hello team, When is the new feature update scheduled for release?
+Best regards,
+Robert",General Query,Low
+INC-2026625,"Hello team, What are the system requirements for running your software?
+Sincerely,
+Michael",General Query,Low
+INC-2026626,"Hi, I requested a refund of $33 last week but haven't received it yet.
+- John",Billing,High
+INC-2026627,"Hi, Why was I charged $58 this month instead of the usual $10?
+- David",Billing,Medium
+INC-2026628,"Hello team, The application is extremely slow and takes minutes to load pages.
+Best regards,
+Robert",Technical Issue,High
+INC-2026629,"Hello, I am seeing an unrecognized transaction of $85 on my card from your site.
+- David",Billing,High
+INC-2026630,"Hi support team, What are your business hours and customer support availability on weekends?
+Best regards,
+Jessica",General Query,Low
+INC-2026631,"Hello team, Is it possible to switch my billing from monthly to yearly to get a discount?
+Best regards,
+David",Billing,Low
+INC-2026632,Can you reset my password? I forgot it and need access.,Account Access,Low
+INC-2026633,"Hi, Is your service compatible with Internet Explorer 11?
+Thank you,
+Sarah",General Query,Low
+INC-2026634,"Hello team, Where can I find your API documentation and developers SDK guides?
+- James",General Query,Low
+INC-2026635,Why was I charged $82 this month instead of the usual $72?,Billing,Medium
+INC-2026636,"My API key has leaked and I need to regenerate it immediately.
+Regards,
+David",Account Access,High
+INC-2026637,"Greetings, The application is extremely slow and takes minutes to load pages.",Technical Issue,High
+INC-2026638,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026639,"How do I upgrade my subscription plan to premium?
+Sincerely,
+Jessica",Account Access,Low
+INC-2026640,"Hi, The search bar returns incorrect results for simple queries.
+- David",Technical Issue,Low
+INC-2026641,"Hi, My credit card was charged twice for the monthly subscription on 19-11-2026. Please refund $219.",Billing,High
+INC-2026642,"Hello, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026643,"Good morning, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+James",Account Access,High
+INC-2026644,"Hey, Do you support integration with Slack or Microsoft Teams?
+- Daniel",General Query,Low
+INC-2026645,"Dear Support, Can I get a copy of my invoice for May 2025?
+Best regards,
+Emily",Billing,Low
+INC-2026646,"Hey, My credit card was charged twice for the monthly subscription on 21-06-2026. Please refund $171.
+Thanks,
+Megan",Billing,High
+INC-2026647,"My payment failed but money was deducted from my bank account.
+- Megan",Billing,High
+INC-2026648,"The mobile app freezes and closes automatically when opening reports.
+Thank you,
+Megan",Technical Issue,Medium
+INC-2026649,"Dear Support, The mobile app freezes and closes automatically when opening reports.",Technical Issue,Medium
+INC-2026650,"Why was I charged $242 this month instead of the usual $92?
+Thanks,
+Megan",Billing,Medium
+INC-2026651,"Hi support team, My billing account is locked and I cannot process the invoice payment.
+Regards,
+Emily",Billing,High
+INC-2026652,"Hey, Can you update my billing address on the system? It should be 414 Main St, Cityville.
+Thanks,
+Emily",Billing,Low
+INC-2026653,"Hello team, My credit card was charged twice for the monthly subscription on 04-09-2026. Please refund $85.
+Best regards,
+John",Billing,High
+INC-2026654,"Hi support team, How can I contact sales for custom licensing terms?
+- Sarah",General Query,Low
+INC-2026655,"Hey, The application is extremely slow and takes minutes to load pages.
+Sincerely,
+Amanda",Technical Issue,High
+INC-2026656,"Greetings, My account has been suspended and I don't know why. Please reactivate.
+Thanks,
+Jessica",Account Access,High
+INC-2026657,"Good morning, What are the system requirements for running your software?
+Sincerely,
+Jessica",General Query,Low
+INC-2026658,"I need to delete my account and remove my personal data under GDPR rules.
+- Daniel",Account Access,Low
+INC-2026659,"Hello team, Our system integration with your webhook is failing with connection refused.
+Best regards,
+Emily",Technical Issue,High
+INC-2026660,"Hi, How do I add a new team member to my organization profile?
+Thanks,
+Megan",Account Access,Low
+INC-2026661,Can you tell me more about your security and data compliance policies?,General Query,Low
+INC-2026662,"Hello, I received a payment failure notification but my credit card has sufficient funds.",Billing,Medium
+INC-2026663,"Hey, The website crashes whenever I try to upload my profile photo or files.
+- James",Technical Issue,Medium
+INC-2026664,"Dear Support, My API key has leaked and I need to regenerate it immediately.
+Sincerely,
+Megan",Account Access,High
+INC-2026665,"Hey, I was billed $90 during my free trial period. Please check and refund.",Billing,High
+INC-2026666,My payment failed but money was deducted from my bank account.,Billing,High
+INC-2026667,"Hey, Can you update my billing address on the system? It should be 146 Main St, Cityville.
+- Sarah",Billing,Low
+INC-2026668,"Good morning, The search bar returns incorrect results for simple queries.
+Thanks,
+Daniel",Technical Issue,Low
+INC-2026669,"Hello team, I need to delete my account and remove my personal data under GDPR rules.
+Best regards,
+James",Account Access,Low
+INC-2026670,"Hi, My account has been suspended and I don't know why. Please reactivate.
+Regards,
+Emily",Account Access,High
+INC-2026671,"I want to update my payment method from Visa to Mastercard.
+Regards,
+Jessica",Billing,Low
+INC-2026672,"Hi, I want to request a demo of your enterprise plan for my team.
+- Robert",General Query,Low
+INC-2026673,"Hello, I want to enable two-factor authentication for my profile for security.",Account Access,Low
+INC-2026674,"Greetings, I am seeing an unrecognized transaction of $155 on my card from your site.",Billing,High
+INC-2026675,"Greetings, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026676,"Hello team, What are your business hours and customer support availability on weekends?
+Thank you,
+Amanda",General Query,Low
+INC-2026677,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026678,"Good morning, Is your service compatible with Internet Explorer 11?
+- Michael",General Query,Low
+INC-2026679,"Hello team, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026680,"Hi support team, Where can I find your API documentation and developers SDK guides?",General Query,Low
+INC-2026681,"Hello, I get a 404 page not found error when clicking on the dashboard link.
+Regards,
+David",Technical Issue,Medium
+INC-2026682,"Greetings, I was billed $126 during my free trial period. Please check and refund.
+Best regards,
+Daniel",Billing,High
+INC-2026683,"Good morning, My data has not synced between the web app and the mobile application.",Technical Issue,Medium
+INC-2026684,"Dear Support, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-65134
+Thanks,
+David",Billing,Medium
+INC-2026685,"Hey, Unrecognized login detected on my account. I need to secure it.
+Thank you,
+Daniel",Account Access,High
+INC-2026686,"Dear Support, The website crashes whenever I try to upload my profile photo or files.
+Thank you,
+Jessica",Technical Issue,Medium
+INC-2026687,"Hi, The CSV export feature is broken. It downloads an empty file.
+Thanks,
+Megan",Technical Issue,Medium
+INC-2026688,"My data has not synced between the web app and the mobile application.
+Sincerely,
+Jessica",Technical Issue,Medium
+INC-2026689,"The website crashes whenever I try to upload my profile photo or files.
+Regards,
+James",Technical Issue,Medium
+INC-2026690,"Hi support team, My data has not synced between the web app and the mobile application.",Technical Issue,Medium
+INC-2026691,"Good morning, I requested a refund of $77 last week but haven't received it yet.",Billing,High
+INC-2026692,"Hello, Can you update my billing address on the system? It should be 927 Main St, Cityville.",Billing,Low
+INC-2026693,"I want to enable two-factor authentication for my profile for security.
+Best regards,
+David",Account Access,Low
+INC-2026694,"Hello team, The search bar returns incorrect results for simple queries.
+Sincerely,
+Michael",Technical Issue,Low
+INC-2026695,"How do I add a new team member to my organization profile?
+- James",Account Access,Low
+INC-2026696,"Dear Support, I need to delete my account and remove my personal data under GDPR rules.
+Regards,
+Jessica",Account Access,Low
+INC-2026697,"I want to update my payment method from Visa to Mastercard.
+Best regards,
+Robert",Billing,Low
+INC-2026698,"How do I upgrade my subscription plan to premium?
+Thank you,
+John",Account Access,Low
+INC-2026699,"Hi support team, How do I upgrade my subscription plan to premium?
+Sincerely,
+Daniel",Account Access,Low
+INC-2026700,"How can I contact sales for custom licensing terms?
+- John",General Query,Low
+INC-2026701,"Good morning, My profile information is not updating when I save changes.",Account Access,Low
+INC-2026702,"My payment failed but money was deducted from my bank account.
+Thank you,
+Jessica",Billing,High
+INC-2026703,"Hi, Why was I charged $126 this month instead of the usual $73?",Billing,Medium
+INC-2026704,"Hello, My API key has leaked and I need to regenerate it immediately.",Account Access,High
+INC-2026705,"Can you reset my password? I forgot it and need access.
+- Amanda",Account Access,Low
+INC-2026706,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026707,My API key has leaked and I need to regenerate it immediately.,Account Access,High
+INC-2026708,Is there a feature to export reports as PDF or CSV?,General Query,Low
+INC-2026709,"Hi, I need to change my registered email from emily83@gmail.com to emily.new@company.com.
+Thanks,
+Emily",Account Access,Medium
+INC-2026710,"Hi support team, Can you update my billing address on the system? It should be 777 Main St, Cityville.
+Best regards,
+Jessica",Billing,Low
+INC-2026711,I get a 404 page not found error when clicking on the dashboard link.,Technical Issue,Medium
+INC-2026712,The CSV export feature is broken. It downloads an empty file.,Technical Issue,Medium
+INC-2026713,"I received a payment failure notification but my credit card has sufficient funds.
+Sincerely,
+Robert",Billing,Medium
+INC-2026714,"How do I add a new team member to my organization profile?
+- Megan",Account Access,Low
+INC-2026715,"Good morning, What are the system requirements for running your software?
+Best regards,
+Ashley",General Query,Low
+INC-2026716,"Can you reset my password? I forgot it and need access.
+- Ashley",Account Access,Low
+INC-2026717,"How do I upgrade my subscription plan to premium?
+Regards,
+Ashley",Account Access,Low
+INC-2026718,"Hi, What are your business hours and customer support availability on weekends?
+Thanks,
+Emily",General Query,Low
+INC-2026719,"The CSV export feature is broken. It downloads an empty file.
+Regards,
+Michael",Technical Issue,Medium
+INC-2026720,"Hello team, I need to change my registered email from amanda65@gmail.com to amanda.new@company.com.",Account Access,Medium
+INC-2026721,I want to update my payment method from PayPal to Visa.,Billing,Low
+INC-2026722,"Hello, What are your business hours and customer support availability on weekends?",General Query,Low
+INC-2026723,"Hi support team, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
+INC-2026724,"Good morning, I want to update my payment method from Amex to Visa.
+Regards,
+Michael",Billing,Low
+INC-2026725,"I am unable to receive password reset emails. The mail server seems down.
+Thank you,
+Michael",Technical Issue,High
+INC-2026726,"Hello, Can I get a copy of my invoice for September 2026?
+Thank you,
+Ashley",Billing,Low
+INC-2026727,"Hello, My billing account is locked and I cannot process the invoice payment.
+- John",Billing,High
+INC-2026728,"Hello, What are your business hours and customer support availability on weekends?",General Query,Low
+INC-2026729,"Dear Support, I was billed $46 during my free trial period. Please check and refund.",Billing,High
+INC-2026730,Can I get a copy of my invoice for April 2025?,Billing,Low
+INC-2026731,When is the new feature update scheduled for release?,General Query,Low
+INC-2026732,"Hey, The application is extremely slow and takes minutes to load pages.
+Sincerely,
+James",Technical Issue,High
+INC-2026733,"Greetings, I want to update my payment method from Amex to Visa.",Billing,Low
+INC-2026734,"I need to delete my account and remove my personal data under GDPR rules.
+Regards,
+Jessica",Account Access,Low
+INC-2026735,"Hey, How do I add a new team member to my organization profile?",Account Access,Low
+INC-2026736,"My profile information is not updating when I save changes.
+Thank you,
+David",Account Access,Low
+INC-2026737,Unrecognized login detected on my account. I need to secure it.,Account Access,High
+INC-2026738,"Dear Support, I want to update my payment method from Mastercard to Visa.",Billing,Low
+INC-2026739,"Hi support team, When is the new feature update scheduled for release?",General Query,Low
+INC-2026740,"Hello team, The website crashes whenever I try to upload my profile photo or files.
+- David",Technical Issue,Medium
+INC-2026741,I cannot connect to the server. The connection keeps dropping.,Technical Issue,High
+INC-2026742,"Hey, I cannot log in to my account. It says password incorrect or user not found.
+Thanks,
+Sarah",Account Access,Medium
+INC-2026743,"I received a payment failure notification but my credit card has sufficient funds.
+Regards,
+Jessica",Billing,Medium
+INC-2026744,"Hi, Can you update my billing address on the system? It should be 454 Main St, Cityville.",Billing,Low
+INC-2026745,"I requested a refund of $139 last week but haven't received it yet.
+Best regards,
+David",Billing,High
+INC-2026746,"How can I contact sales for custom licensing terms?
+- Robert",General Query,Low
+INC-2026747,"Hello, I want to enable two-factor authentication for my profile for security.
+Best regards,
+David",Account Access,Low
+INC-2026748,"Hi support team, I requested a refund of $122 last week but haven't received it yet.
+Thanks,
+Michael",Billing,High
+INC-2026749,"I am unable to change my username. It says username already taken.
+Regards,
+Daniel",Account Access,Low
+INC-2026750,"Dear Support, My credit card was charged twice for the monthly subscription on 12-07-2026. Please refund $190.",Billing,High
+INC-2026751,"Hi support team, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026752,"When is the new feature update scheduled for release?
+- James",General Query,Low
+INC-2026753,"Hello, I cannot log in to my account. It says password incorrect or user not found.
+- Megan",Account Access,Medium
+INC-2026754,"Dear Support, What are the system requirements for running your software?",General Query,Low
+INC-2026755,I am seeing an unrecognized transaction of $80 on my card from your site.,Billing,High
+INC-2026756,"I requested a refund of $179 last week but haven't received it yet.
+Sincerely,
+Ashley",Billing,High
+INC-2026757,"Hi, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026758,"Dear Support, The application is extremely slow and takes minutes to load pages.",Technical Issue,High
+INC-2026759,"Hi support team, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
+INC-2026760,"Hello team, My profile information is not updating when I save changes.
+Sincerely,
+John",Account Access,Low
+INC-2026761,"Hello team, How do I add a new team member to my organization profile?
+Thank you,
+Sarah",Account Access,Low
+INC-2026762,"Greetings, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-84108
+- Daniel",Billing,Medium
+INC-2026763,"Hi support team, Can you tell me more about your security and data compliance policies?
+Thank you,
+David",General Query,Low
+INC-2026764,"Hi, Can you tell me more about your security and data compliance policies?
+Best regards,
+Ashley",General Query,Low
+INC-2026765,"Hi, How can I contact sales for custom licensing terms?
+Sincerely,
+Sarah",General Query,Low
+INC-2026766,"Good morning, The application is extremely slow and takes minutes to load pages.",Technical Issue,High
+INC-2026767,"Database connection timeout error when saving my work on Docker.
+Regards,
+Megan",Technical Issue,High
+INC-2026768,I was billed $199 during my free trial period. Please check and refund.,Billing,High
+INC-2026769,"Can I get a copy of my invoice for November 2026?
+Thanks,
+Emily",Billing,Low
+INC-2026770,"Hello team, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026771,"Hi, I need to delete my account and remove my personal data under GDPR rules.",Account Access,Low
+INC-2026772,"Good morning, The website crashes whenever I try to upload my profile photo or files.
+- Jessica",Technical Issue,Medium
+INC-2026773,"Hi support team, The mobile app freezes and closes automatically when opening reports.
+Thanks,
+Sarah",Technical Issue,Medium
+INC-2026774,"Hello team, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026775,"Hi, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-38863
+Regards,
+Michael",Billing,Medium
+INC-2026776,"Hey, I found a bug: the submit button is greyed out even when forms are complete.
+Sincerely,
+Megan",Technical Issue,Medium
+INC-2026777,"Good morning, I am unable to receive password reset emails. The mail server seems down.
+- James",Technical Issue,High
+INC-2026778,"Hi support team, I want to request a demo of your enterprise plan for my team.
+Thank you,
+Sarah",General Query,Low
+INC-2026779,"I cannot connect to the server. The connection keeps dropping.
+Regards,
+Daniel",Technical Issue,High
+INC-2026780,"Dear Support, I need to change my registered email from jessica49@gmail.com to jessica.new@company.com.
+Best regards,
+Jessica",Account Access,Medium
+INC-2026781,"I cannot connect to the server. The connection keeps dropping.
+Regards,
+Megan",Technical Issue,High
+INC-2026782,"Hello team, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-80215
+Best regards,
+Megan",Billing,Medium
+INC-2026783,"The website crashes whenever I try to upload my profile photo or files.
+Sincerely,
+Emily",Technical Issue,Medium
+INC-2026784,"Good morning, The website crashes whenever I try to upload my profile photo or files.",Technical Issue,Medium
+INC-2026785,Database connection timeout error when saving my work on Docker.,Technical Issue,High
+INC-2026786,"Dear Support, Can you merge my two accounts into a single one?
+Thank you,
+Ashley",Account Access,Low
+INC-2026787,"Hi support team, Can you tell me more about your security and data compliance policies?
+Regards,
+David",General Query,Low
+INC-2026788,"Greetings, I cannot connect to the server. The connection keeps dropping.
+- Sarah",Technical Issue,High
+INC-2026789,The website crashes whenever I try to upload my profile photo or files.,Technical Issue,Medium
+INC-2026790,I wanted to share some feedback: the new UI looks really clean!,General Query,Low
+INC-2026791,"Greetings, Can I get a copy of my invoice for April 2026?",Billing,Low
+INC-2026792,"Is your service compatible with Internet Explorer 11?
+- Amanda",General Query,Low
+INC-2026793,"Hi, I am unable to change my username. It says username already taken.",Account Access,Low
+INC-2026794,"Hi, My credit card was charged twice for the monthly subscription on 10-12-2026. Please refund $58.",Billing,High
+INC-2026795,"Dear Support, The search bar returns incorrect results for simple queries.",Technical Issue,Low
+INC-2026796,"Greetings, Database connection timeout error when saving my work on Docker.",Technical Issue,High
+INC-2026797,"My billing account is locked and I cannot process the invoice payment.
+Thank you,
+Jessica",Billing,High
+INC-2026798,"Hi support team, Can you tell me more about your security and data compliance policies?
+Best regards,
+Jessica",General Query,Low
+INC-2026799,"Hello, I am unable to receive password reset emails. The mail server seems down.
+Thank you,
+Daniel",Technical Issue,High
+INC-2026800,"Hello, My API key has leaked and I need to regenerate it immediately.
+Regards,
+David",Account Access,High
+INC-2026801,"My payment failed but money was deducted from my bank account.
+Regards,
+James",Billing,High
+INC-2026802,"Hi support team, Can you merge my two accounts into a single one?",Account Access,Low
+INC-2026803,"I received a payment failure notification but my credit card has sufficient funds.
+Best regards,
+Ashley",Billing,Medium
+INC-2026804,"Hello, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026805,"Our system integration with your webhook is failing with connection refused.
+Regards,
+Emily",Technical Issue,High
+INC-2026806,"Hello, Do you support integration with Slack or Microsoft Teams?
+Thanks,
+Megan",General Query,Low
+INC-2026807,I am unable to receive password reset emails. The mail server seems down.,Technical Issue,High
+INC-2026808,"Hello team, I need to change my registered email from sarah55@gmail.com to sarah.new@company.com.
+- Sarah",Account Access,Medium
+INC-2026809,"Hey, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026810,"Hello team, Can you reset my password? I forgot it and need access.
+Sincerely,
+Ashley",Account Access,Low
+INC-2026811,"Hey, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026812,"Greetings, I cannot connect to the server. The connection keeps dropping.
+Regards,
+David",Technical Issue,High
+INC-2026813,"Dear Support, Can you update my billing address on the system? It should be 691 Main St, Cityville.
+- Emily",Billing,Low
+INC-2026814,"Hi, The application is extremely slow and takes minutes to load pages.",Technical Issue,High
+INC-2026815,"Hello team, We are experiencing an API outage and all requests are returning 500 server errors.",Technical Issue,High
+INC-2026816,"Hello team, What are the system requirements for running your software?
+Sincerely,
+Emily",General Query,Low
+INC-2026817,"Hello, Do you support integration with Slack or Microsoft Teams?
+Thank you,
+David",General Query,Low
+INC-2026818,Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-67068,Billing,Medium
+INC-2026819,"Hi support team, I need to change my registered email from ashley54@gmail.com to ashley.new@company.com.
+Thank you,
+Ashley",Account Access,Medium
+INC-2026820,"Hi support team, Can I get a copy of my invoice for July 2026?
+Thank you,
+Robert",Billing,Low
+INC-2026821,Unrecognized login detected on my account. I need to secure it.,Account Access,High
+INC-2026822,"Hello team, How do I upgrade my subscription plan to premium?",Account Access,Low
+INC-2026823,"Hi support team, Can you merge my two accounts into a single one?
+Thanks,
+Ashley",Account Access,Low
+INC-2026824,"Dear Support, Is there a feature to export reports as PDF or CSV?
+Sincerely,
+Michael",General Query,Low
+INC-2026825,"Hi, What are your business hours and customer support availability on weekends?
+Regards,
+Jessica",General Query,Low
+INC-2026826,"Good morning, Why was I charged $156 this month instead of the usual $43?",Billing,Medium
+INC-2026827,"We are experiencing an API outage and all requests are returning 500 server errors.
+Best regards,
+John",Technical Issue,High
+INC-2026828,My account has been suspended and I don't know why. Please reactivate.,Account Access,High
+INC-2026829,"Greetings, Do you support integration with Slack or Microsoft Teams?",General Query,Low
+INC-2026830,"Hi support team, Is there a feature to export reports as PDF or CSV?",General Query,Low
+INC-2026831,"Hello, My account has been suspended and I don't know why. Please reactivate.
+Regards,
+Amanda",Account Access,High
+INC-2026832,"Is there a feature to export reports as PDF or CSV?
+Sincerely,
+David",General Query,Low
+INC-2026833,"Good morning, I wanted to share some feedback: the new UI looks really clean!",General Query,Low
+INC-2026834,"Hi support team, When is the new feature update scheduled for release?
+Sincerely,
+Daniel",General Query,Low
+INC-2026835,"Dear Support, Is your service compatible with Internet Explorer 11?",General Query,Low
+INC-2026836,"Dear Support, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026837,"Hi support team, The search bar returns incorrect results for simple queries.
+Regards,
+David",Technical Issue,Low
+INC-2026838,"I found a bug: the submit button is greyed out even when forms are complete.
+Regards,
+Daniel",Technical Issue,Medium
+INC-2026839,"Greetings, I was billed $175 during my free trial period. Please check and refund.
+Thanks,
+Michael",Billing,High
+INC-2026840,Can I get a copy of my invoice for February 2025?,Billing,Low
+INC-2026841,I want to update my payment method from Amex to Visa.,Billing,Low
+INC-2026842,"Greetings, The application is extremely slow and takes minutes to load pages.
+Sincerely,
+Megan",Technical Issue,High
+INC-2026843,"Hey, I need to delete my account and remove my personal data under GDPR rules.",Account Access,Low
+INC-2026844,"Hello team, I am seeing an unrecognized transaction of $140 on my card from your site.
+Thank you,
+James",Billing,High
+INC-2026845,How can I contact sales for custom licensing terms?,General Query,Low
+INC-2026846,"Good morning, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-78697
+Regards,
+Megan",Billing,Medium
+INC-2026847,"Dear Support, I am seeing an unrecognized transaction of $226 on my card from your site.",Billing,High
+INC-2026848,Where can I find your API documentation and developers SDK guides?,General Query,Low
+INC-2026849,"When is the new feature update scheduled for release?
+Best regards,
+Ashley",General Query,Low
+INC-2026850,"I want to request a demo of your enterprise plan for my team.
+Regards,
+Amanda",General Query,Low
+INC-2026851,"How can I contact sales for custom licensing terms?
+Regards,
+Daniel",General Query,Low
+INC-2026852,"Greetings, Do you offer discounts for non-profit organizations or educational schools?
+Sincerely,
+Sarah",General Query,Low
+INC-2026853,"Dear Support, I found a bug: the submit button is greyed out even when forms are complete.
+Best regards,
+Daniel",Technical Issue,Medium
+INC-2026854,I need to delete my account and remove my personal data under GDPR rules.,Account Access,Low
+INC-2026855,"I want to enable two-factor authentication for my profile for security.
+Thanks,
+Amanda",Account Access,Low
+INC-2026856,"Good morning, Can you tell me more about your security and data compliance policies?
+- Michael",General Query,Low
+INC-2026857,"Hello, I cannot connect to the server. The connection keeps dropping.
+Thank you,
+Jessica",Technical Issue,High
+INC-2026858,"Hi support team, Is there a feature to export reports as PDF or CSV?
+Sincerely,
+Michael",General Query,Low
+INC-2026859,"Hey, My payment failed but money was deducted from my bank account.
+Regards,
+Ashley",Billing,High
+INC-2026860,"Dear Support, Can I get a copy of my invoice for December 2026?
+Regards,
+Megan",Billing,Low
+INC-2026861,"Hello, I am unable to receive password reset emails. The mail server seems down.
+- Robert",Technical Issue,High
+INC-2026862,"Hi support team, I cannot log in to my account. It says password incorrect or user not found.
+- James",Account Access,Medium
+INC-2026863,"Hi, I received a payment failure notification but my credit card has sufficient funds.
+Regards,
+Ashley",Billing,Medium
+INC-2026864,"I wanted to share some feedback: the new UI looks really clean!
+Best regards,
+Amanda",General Query,Low
+INC-2026865,"How do I upgrade my subscription plan to premium?
+Best regards,
+Amanda",Account Access,Low
+INC-2026866,"Dear Support, I need to delete my account and remove my personal data under GDPR rules.
+Thank you,
+Jessica",Account Access,Low
+INC-2026867,"How do I upgrade my subscription plan to premium?
+Best regards,
+Ashley",Account Access,Low
+INC-2026868,"Hello team, I cannot connect to the server. The connection keeps dropping.
+Regards,
+Emily",Technical Issue,High
+INC-2026869,"Good morning, Is there a feature to export reports as PDF or CSV?
+Thanks,
+Ashley",General Query,Low
+INC-2026870,"Hello team, I want to enable two-factor authentication for my profile for security.",Account Access,Low
+INC-2026871,"The application is extremely slow and takes minutes to load pages.
+Best regards,
+John",Technical Issue,High
+INC-2026872,"Hello team, Where can I find your API documentation and developers SDK guides?
+Regards,
+Ashley",General Query,Low
+INC-2026873,"Hi, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026874,"Hey, My payment failed but money was deducted from my bank account.",Billing,High
+INC-2026875,My profile information is not updating when I save changes.,Account Access,Low
+INC-2026876,"Hey, I want to request a demo of your enterprise plan for my team.
+Best regards,
+Jessica",General Query,Low
+INC-2026877,I need to change my registered email from david11@gmail.com to david.new@company.com.,Account Access,Medium
+INC-2026878,"Greetings, The application is extremely slow and takes minutes to load pages.
+- James",Technical Issue,High
+INC-2026879,"Do you offer discounts for non-profit organizations or educational schools?
+- Ashley",General Query,Low
+INC-2026880,"Hi, Can you reset my password? I forgot it and need access.
+Regards,
+Sarah",Account Access,Low
+INC-2026881,"Is your service compatible with Internet Explorer 11?
+- Emily",General Query,Low
+INC-2026882,"Dear Support, The CSV export feature is broken. It downloads an empty file.
+Sincerely,
+Jessica",Technical Issue,Medium
+INC-2026883,"Hi, My data has not synced between the web app and the mobile application.
+Regards,
+Daniel",Technical Issue,Medium
+INC-2026884,"I requested a refund of $152 last week but haven't received it yet.
+Best regards,
+John",Billing,High
+INC-2026885,"Hi support team, I would like to suggest a feature: adding a dark mode to the dashboard.
+- David",General Query,Low
+INC-2026886,"Dear Support, I found a bug: the submit button is greyed out even when forms are complete.
+Regards,
+Daniel",Technical Issue,Medium
+INC-2026887,"Good morning, Is it possible to switch my billing from monthly to yearly to get a discount?
+Sincerely,
+Robert",Billing,Low
+INC-2026888,I would like to suggest a feature: adding a dark mode to the dashboard.,General Query,Low
+INC-2026889,"My API key has leaked and I need to regenerate it immediately.
+Best regards,
+Jessica",Account Access,High
+INC-2026890,"Hi support team, Is there a feature to export reports as PDF or CSV?
+Thanks,
+Amanda",General Query,Low
+INC-2026891,"Hello, The search bar returns incorrect results for simple queries.
+Sincerely,
+James",Technical Issue,Low
+INC-2026892,"Hello team, How can I contact sales for custom licensing terms?
+Best regards,
+John",General Query,Low
+INC-2026893,"Hi, How do I add a new team member to my organization profile?
+Thanks,
+Daniel",Account Access,Low
+INC-2026894,"I want to enable two-factor authentication for my profile for security.
+Regards,
+Jessica",Account Access,Low
+INC-2026895,"Hey, Can you tell me more about your security and data compliance policies?
+- David",General Query,Low
+INC-2026896,"Good morning, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026897,"Do you offer discounts for non-profit organizations or educational schools?
+Thanks,
+John",General Query,Low
+INC-2026898,"Greetings, Is there a feature to export reports as PDF or CSV?
+Thank you,
+John",General Query,Low
+INC-2026899,"Dear Support, I get a 404 page not found error when clicking on the dashboard link.
+Regards,
+Michael",Technical Issue,Medium
+INC-2026900,"Dear Support, I was billed $230 during my free trial period. Please check and refund.
+Sincerely,
+Daniel",Billing,High
+INC-2026901,"Hello, The mobile app freezes and closes automatically when opening reports.
+Thank you,
+Sarah",Technical Issue,Medium
+INC-2026902,"Database connection timeout error when saving my work on Slack.
+- Robert",Technical Issue,High
+INC-2026903,"Hi support team, I want to enable two-factor authentication for my profile for security.
+- John",Account Access,Low
+INC-2026904,"Hi support team, What are the system requirements for running your software?
+- James",General Query,Low
+INC-2026905,"Greetings, I would like to suggest a feature: adding a dark mode to the dashboard.",General Query,Low
+INC-2026906,"Hello, I need to change my registered email from daniel12@gmail.com to daniel.new@company.com.
+Thanks,
+Daniel",Account Access,Medium
+INC-2026907,"Dear Support, Can you reset my password? I forgot it and need access.
+Thank you,
+Amanda",Account Access,Low
+INC-2026908,"My data has not synced between the web app and the mobile application.
+Thanks,
+Megan",Technical Issue,Medium
+INC-2026909,"Hi, Is it possible to switch my billing from monthly to yearly to get a discount?
+Regards,
+Amanda",Billing,Low
+INC-2026910,"How can I contact sales for custom licensing terms?
+Regards,
+Emily",General Query,Low
+INC-2026911,"Hey, I want to update my payment method from PayPal to Visa.
+Thank you,
+Daniel",Billing,Low
+INC-2026912,"Good morning, We are experiencing an API outage and all requests are returning 500 server errors.
+Regards,
+Sarah",Technical Issue,High
+INC-2026913,"Good morning, Is it possible to switch my billing from monthly to yearly to get a discount?",Billing,Low
+INC-2026914,"Dear Support, Can you cancel my subscription and stop auto-renewal? Ticket id: TKT-58604
+Thanks,
+David",Billing,Medium
+INC-2026915,"Hello team, The mobile app freezes and closes automatically when opening reports.
+Thank you,
+Michael",Technical Issue,Medium
+INC-2026916,"Hey, The search bar returns incorrect results for simple queries.
+Thanks,
+Robert",Technical Issue,Low
+INC-2026917,"Dear Support, Is your service compatible with Internet Explorer 11?",General Query,Low
+INC-2026918,"Hey, I requested a refund of $27 last week but haven't received it yet.",Billing,High
+INC-2026919,Why was I charged $32 this month instead of the usual $81?,Billing,Medium
+INC-2026920,"Hello, Where can I find your API documentation and developers SDK guides?
+- Megan",General Query,Low
+INC-2026921,"I cannot connect to the server. The connection keeps dropping.
+Thank you,
+Emily",Technical Issue,High
+INC-2026922,"Hey, Where can I find your API documentation and developers SDK guides?
+Best regards,
+John",General Query,Low
+INC-2026923,"Dear Support, I cannot log in to my account. It says password incorrect or user not found.",Account Access,Medium
+INC-2026924,"Greetings, I received a payment failure notification but my credit card has sufficient funds.
+Sincerely,
+Amanda",Billing,Medium
+INC-2026925,"Hi, I want to request a demo of your enterprise plan for my team.
+Regards,
+Jessica",General Query,Low
+INC-2026926,"The application is extremely slow and takes minutes to load pages.
+- Robert",Technical Issue,High
+INC-2026927,"Hello team, I get a 404 page not found error when clicking on the dashboard link.
+Best regards,
+Ashley",Technical Issue,Medium
+INC-2026928,"Greetings, I found a bug: the submit button is greyed out even when forms are complete.",Technical Issue,Medium
+INC-2026929,"Greetings, I want to request a demo of your enterprise plan for my team.",General Query,Low
+INC-2026930,"Hi, I get a 404 page not found error when clicking on the dashboard link.
+Thank you,
+Emily",Technical Issue,Medium
+INC-2026931,"Hi support team, My profile information is not updating when I save changes.
+Regards,
+John",Account Access,Low
+INC-2026932,"Hi, Our system integration with your webhook is failing with connection refused.
+Best regards,
+Jessica",Technical Issue,High
+INC-2026933,"Dear Support, I get a 404 page not found error when clicking on the dashboard link.
+Sincerely,
+Megan",Technical Issue,Medium
+INC-2026934,"Hi, The mobile app freezes and closes automatically when opening reports.
+Thanks,
+Amanda",Technical Issue,Medium
+INC-2026935,"Hi, How can I contact sales for custom licensing terms?",General Query,Low
+INC-2026936,I am unable to receive password reset emails. The mail server seems down.,Technical Issue,High
+INC-2026937,"Greetings, I want to update my payment method from Visa to Mastercard.
+Regards,
+Jessica",Billing,Low
+INC-2026938,"Hey, Can I get a copy of my invoice for January 2026?
+Regards,
+Robert",Billing,Low
+INC-2026939,"Unrecognized login detected on my account. I need to secure it.
+Sincerely,
+Ashley",Account Access,High
+INC-2026940,"Hi, My billing account is locked and I cannot process the invoice payment.
+Best regards,
+David",Billing,High
+INC-2026941,I requested a refund of $13 last week but haven't received it yet.,Billing,High
+INC-2026942,"Dear Support, I found a bug: the submit button is greyed out even when forms are complete.
+Best regards,
+David",Technical Issue,Medium
+INC-2026943,"Do you support integration with Slack or Microsoft Teams?
+- Sarah",General Query,Low
+INC-2026944,"Hey, Our system integration with your webhook is failing with connection refused.
+- Emily",Technical Issue,High
+INC-2026945,"How do I upgrade my subscription plan to premium?
+Sincerely,
+Michael",Account Access,Low
+INC-2026946,"Hi support team, I received a payment failure notification but my credit card has sufficient funds.
+Sincerely,
+Jessica",Billing,Medium
+INC-2026947,"Hello, How do I add a new team member to my organization profile?
+Thank you,
+Daniel",Account Access,Low
+INC-2026948,"Hi, When is the new feature update scheduled for release?
+Thanks,
+John",General Query,Low
+INC-2026949,I would like to suggest a feature: adding a dark mode to the dashboard.,General Query,Low
+INC-2026950,"Hello, Is your service compatible with Internet Explorer 11?
+Thanks,
+Robert",General Query,Low
+INC-2026951,"Hi, My payment failed but money was deducted from my bank account.
+Regards,
+Robert",Billing,High
+INC-2026952,"Do you support integration with Slack or Microsoft Teams?
+Best regards,
+Jessica",General Query,Low
+INC-2026953,The search bar returns incorrect results for simple queries.,Technical Issue,Low
+INC-2026954,"Hi support team, Unrecognized login detected on my account. I need to secure it.
+Best regards,
+Amanda",Account Access,High
+INC-2026955,"Hello, Can you reset my password? I forgot it and need access.
+Best regards,
+David",Account Access,Low
+INC-2026956,"My payment failed but money was deducted from my bank account.
+- Amanda",Billing,High
+INC-2026957,I am seeing an unrecognized transaction of $198 on my card from your site.,Billing,High
+INC-2026958,"My credit card was charged twice for the monthly subscription on 21-11-2026. Please refund $205.
+Regards,
+James",Billing,High
+INC-2026959,"I am seeing an unrecognized transaction of $60 on my card from your site.
+Thank you,
+Jessica",Billing,High
+INC-2026960,"Hello, I need to delete my account and remove my personal data under GDPR rules.
+Regards,
+Emily",Account Access,Low
+INC-2026961,"Is it possible to switch my billing from monthly to yearly to get a discount?
+Regards,
+Sarah",Billing,Low
+INC-2026962,"Can you reset my password? I forgot it and need access.
+Best regards,
+James",Account Access,Low
+INC-2026963,Where can I find your API documentation and developers SDK guides?,General Query,Low
+INC-2026964,"Good morning, The application is extremely slow and takes minutes to load pages.
+Thanks,
+Ashley",Technical Issue,High
+INC-2026965,"The CSV export feature is broken. It downloads an empty file.
+Sincerely,
+Daniel",Technical Issue,Medium
+INC-2026966,"Good morning, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
+INC-2026967,"Dear Support, How do I add a new team member to my organization profile?",Account Access,Low
+INC-2026968,"Hey, My API key has leaked and I need to regenerate it immediately.",Account Access,High
+INC-2026969,"Dear Support, The search bar returns incorrect results for simple queries.",Technical Issue,Low
+INC-2026970,My credit card was charged twice for the monthly subscription on 28-01-2026. Please refund $168.,Billing,High
+INC-2026971,"Dear Support, I get a 404 page not found error when clicking on the dashboard link.",Technical Issue,Medium
+INC-2026972,"Hi support team, I want to update my payment method from Visa to Mastercard.
+Best regards,
+Michael",Billing,Low
+INC-2026973,"Hi support team, Database connection timeout error when saving my work on Docker.
+Regards,
+Emily",Technical Issue,High
+INC-2026974,"Hello, My API key has leaked and I need to regenerate it immediately.
+Thank you,
+Megan",Account Access,High
+INC-2026975,"I would like to suggest a feature: adding a dark mode to the dashboard.
+Regards,
+Ashley",General Query,Low
+INC-2026976,"Greetings, The search bar returns incorrect results for simple queries.
+Thank you,
+Michael",Technical Issue,Low
+INC-2026977,"Hi, I need to change my registered email from daniel15@gmail.com to daniel.new@company.com.
+- Daniel",Account Access,Medium
+INC-2026978,I cannot connect to the server. The connection keeps dropping.,Technical Issue,High
+INC-2026979,"Good morning, Our system integration with your webhook is failing with connection refused.
+Thanks,
+Daniel",Technical Issue,High
+INC-2026980,"Hey, I am unable to receive password reset emails. The mail server seems down.",Technical Issue,High
+INC-2026981,"I want to request a demo of your enterprise plan for my team.
+Thanks,
+Michael",General Query,Low
+INC-2026982,"I am seeing an unrecognized transaction of $118 on my card from your site.
+- Jessica",Billing,High
+INC-2026983,"Good morning, How can I contact sales for custom licensing terms?
+Thanks,
+John",General Query,Low
+INC-2026984,What are the system requirements for running your software?,General Query,Low
+INC-2026985,"Greetings, Our system integration with your webhook is failing with connection refused.",Technical Issue,High
+INC-2026986,"Do you offer discounts for non-profit organizations or educational schools?
+- Daniel",General Query,Low
+INC-2026987,"Hi support team, I am seeing an unrecognized transaction of $188 on my card from your site.
+Thanks,
+John",Billing,High
+INC-2026988,"Greetings, The mobile app freezes and closes automatically when opening reports.",Technical Issue,Medium
+INC-2026989,"Good morning, I would like to suggest a feature: adding a dark mode to the dashboard.",General Query,Low
+INC-2026990,"Can you merge my two accounts into a single one?
+Regards,
+Sarah",Account Access,Low
+INC-2026991,"Hello team, Is your service compatible with Internet Explorer 11?
+Thank you,
+James",General Query,Low
+INC-2026992,"Hello team, My billing account is locked and I cannot process the invoice payment.",Billing,High
+INC-2026993,"I requested a refund of $78 last week but haven't received it yet.
+Thank you,
+David",Billing,High
+INC-2026994,"Hi support team, Database connection timeout error when saving my work on GitHub.
+Best regards,
+Daniel",Technical Issue,High
+INC-2026995,"How can I contact sales for custom licensing terms?
+Regards,
+Jessica",General Query,Low
+INC-2026996,"Good morning, When is the new feature update scheduled for release?
+Thank you,
+David",General Query,Low
+INC-2026997,"Hello team, Is it possible to switch my billing from monthly to yearly to get a discount?
+- Michael",Billing,Low
+INC-2026998,"Hi support team, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
+INC-2026999,"Good morning, My account has been suspended and I don't know why. Please reactivate.",Account Access,High
